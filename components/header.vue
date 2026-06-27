@@ -11,8 +11,8 @@
       </div>
       <span class="inline-flex items-center gap-2 text-sm text-slate-400">
         Made by
-        <a href="https://x.com/lvwzhen" target="_blank" class="transition-all hover:scale-105 hover:text-primary-500">
-          lvwzhen
+        <a href="https://github.com/Silent-wqh" target="_blank" class="transition-all hover:scale-105 hover:text-primary-500">
+          Silent-wqh
         </a>
       </span>
     </div>

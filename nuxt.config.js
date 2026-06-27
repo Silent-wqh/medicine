@@ -15,7 +15,7 @@ export default {
           hid: "description",
           name: "description",
           content:
-            "约 400 种药品，实时更新的进口原研药数据库",
+            "约 1500 种药品，实时更新的进口原研药数据库",
         },
       ],
       link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
@@ -47,7 +47,7 @@ export default {
 
   // sitemap
   sitemap: {
-    hostname: "https://medicine.lvwzhen.com",
+    hostname: "https://medicine.Silent-wqh.com",
     gzip: true,
     trailingSlash: true,
   },
