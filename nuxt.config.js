@@ -3,6 +3,9 @@ const tableData = require("./data/tableData.json");
 
 export default {
   target: "static",
+  router: {
+    base: '/medicine/'
+  },
   loading: false,
   // Global page headers: https://go.nuxtjs.dev/config-head
   head() {
@@ -47,7 +50,7 @@ export default {
 
   // sitemap
   sitemap: {
-    hostname: "https://medicine.Silent-wqh.com",
+    hostname: "https://Silent-wqh.github.io/medicine",
     gzip: true,
     trailingSlash: true,
   },

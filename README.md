@@ -1,17 +1,19 @@
 # 进口原研药目录
 
-一个基于 Nuxt.js 开发的进口原研药数据库，收录约 400 种进口原研药品信息，帮助医生和患者快速查询原研药信息。
+一个基于 Nuxt.js 开发的进口原研药数据库，收录约 1500余种 进口原研药品信息，帮助医生和患者快速查询原研药信息。
 
-网址：https://medicine.Silent-wqh.com/
+本项目基于 [lvwzhen/medicine](https://github.com/lvwzhen/medicine) 修改而来。
+
+网址：https://Silent-wqh.github.io/medicine/
 
 作者：[@Silent-wqh](https://github.com/Silent-wqh)
  
 数据来源：
-- https://mp.weixin.qq.com/s/EBu_ZTy5uovPa_8kCs_TBQ
+- https://mp.weixin.qq.com/s/NOruCOZsFjjWHZ9W83_5WA
 
 ## 功能特点
 
-- 收录约 400 种进口原研药品信息
+- 收录约 1500余种 进口原研药品信息
 - 按字母顺序分类展示
 - 包含药品名称、生产厂家等关键信息
 - 支持药品分类标签（如：抗生素、片剂等）
