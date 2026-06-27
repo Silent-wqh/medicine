@@ -1,0 +1,11269 @@
+[
+  {
+    "letter": "A",
+    "name": "阿奇霉素⼲混悬剂",
+    "brandName": "希舒美",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "混悬剂"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "阿奇霉素⼲混悬剂",
+    "brandName": "舒美特",
+    "manufacturer": "普利⽡(克罗地亚)",
+    "tags": [
+      "混悬剂"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "阿奇霉素⽚",
+    "brandName": "希舒美",
+    "manufacturer": "辉瑞(美国)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿奇霉素⽚",
+    "brandName": "舒美特",
+    "manufacturer": "普利⽡(克罗地亚)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿奇霉素胶囊",
+    "brandName": "舒美特",
+    "manufacturer": "普利⽡(克罗地亚)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "埃索美拉唑镁肠溶⽚",
+    "brandName": "耐信",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "奥利司他胶囊",
+    "brandName": "赛尼可",
+    "manufacturer": "罗⽒(瑞⼠)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "奥卡西平⼝服混悬液",
+    "brandName": "曲莱",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": [
+      "混悬剂"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "奥卡西平⽚",
+    "brandName": "曲莱",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "奥卡西平⽚",
+    "brandName": "曲莱",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "奥妥珠单抗注射液",
+    "brandName": "佳罗华",
+    "manufacturer": "罗⽒(瑞⼠)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "奥德⾦巴特胶囊",
+    "brandName": "蓓尔唯",
+    "manufacturer": "益普⽣(法国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "奥拉帕利⽚",
+    "brandName": "利普卓",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "奥替溴铵⽚",
+    "brandName": "斯巴敏",
+    "manufacturer": "柏林化学(德国)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "奥替溴铵⽚",
+    "brandName": "斯巴敏",
+    "manufacturer": "美纳⾥尼(意⼤利)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "奥氮平⽚",
+    "brandName": "再普乐",
+    "manufacturer": "波多黎各Lillyd",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "奥氮平⽚",
+    "brandName": "再普乐",
+    "manufacturer": "礼来(美国)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "奥法妥⽊单抗注射液",
+    "brandName": "全欣达",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "奥洛他定滴眼液",
+    "brandName": "帕坦洛",
+    "manufacturer": "爱尔康(美国)",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "奥特康唑胶囊",
+    "brandName": "瑞必康",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "奥美拉唑肠溶胶囊",
+    "brandName": "洛赛克",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "奥美拉唑镁肠溶⽚",
+    "brandName": "洛赛克",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "奥美拉唑镁肠溶⽚",
+    "brandName": "洛赛克",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "奥美沙坦酯氢氯噻嗪⽚",
+    "brandName": "复傲坦",
+    "manufacturer": "第⼀三共(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "奥美沙坦酯氨氯地平⽚",
+    "brandName": "思卫卡",
+    "manufacturer": "第⼀三共(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "奥美沙坦酯⽚",
+    "brandName": "傲坦",
+    "manufacturer": "第⼀三共(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "奥美沙坦酯⽚",
+    "brandName": "傲坦",
+    "manufacturer": "第⼀三共(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "奥马珠单抗注射液",
+    "brandName": "茁乐",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "安⽴⽣坦⽚",
+    "brandName": "凡瑞克",
+    "manufacturer": "GSK(英国)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "氨加黄敏胶囊",
+    "brandName": "贝尔严清",
+    "manufacturer": "卫材(⽇本)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "氨甲环酸⽚",
+    "brandName": "",
+    "manufacturer": "第⼀三共(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "氨甲环酸⽚",
+    "brandName": "妥塞敏",
+    "manufacturer": "第⼀三共(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "氨甲环酸胶囊",
+    "brandName": "正美",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "氨磺必利⽚",
+    "brandName": "索⾥昂",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "氨苄西林氯唑西林钠胶囊",
+    "brandName": "澳博灵",
+    "manufacturer": "澳美(中国⾹港)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "氨苄西林胶囊",
+    "brandName": "安必仙",
+    "manufacturer": "联邦制药",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "氨酚伪⿇敏⽚",
+    "brandName": "新康泰克",
+    "manufacturer": "中美史克(英国)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "氨酚伪⿇美芬⽚",
+    "brandName": "II",
+    "manufacturer": "拜⽿(德国)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "氨酚伪⿇美芬⽚",
+    "brandName": "⽇夜百服宁",
+    "manufacturer": "BMS(美国)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "氨酚右敏⼝服溶液",
+    "brandName": "美肯能",
+    "manufacturer": "澳美(中国⾹港)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "氨酚拉明⼝服溶液",
+    "brandName": "泰诺安",
+    "manufacturer": "强⽣(美国)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "氨酚拉明⽚",
+    "brandName": "泰诺安",
+    "manufacturer": "强⽣(美国)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "氨酚曲马多⽚",
+    "brandName": "及通安",
+    "manufacturer": "强⽣(美国)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "氨酚羟考酮⽚",
+    "brandName": "泰勒宁",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "氨⿇美敏⽚",
+    "brandName": "II",
+    "manufacturer": "BMS(美国)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "氨⿇苯美⽚",
+    "brandName": "⽩加⿊",
+    "manufacturer": "拜⽿(德国)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "艾伏尼布⽚",
+    "brandName": "拓舒沃",
+    "manufacturer": "施维雅(法国)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "艾加莫德α注射液",
+    "brandName": "卫伟迦",
+    "manufacturer": "阿根斯",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "艾加莫德α注射液",
+    "brandName": "⽪下注射",
+    "manufacturer": "阿根斯",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "艾司奥美拉唑镁肠溶⽚",
+    "brandName": "耐信",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "艾尔巴韦格拉瑞韦⽚",
+    "brandName": "择必达",
+    "manufacturer": "默沙东(美国)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "艾度硫酸酯酶β注射液",
+    "brandName": "海芮思",
+    "manufacturer": "绿⼗字",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "艾托格列净⽚",
+    "brandName": "捷诺妥",
+    "manufacturer": "默沙东(美国)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "艾拉莫德⽚",
+    "brandName": "艾得⾟",
+    "manufacturer": "先声",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "艾普拉唑肠溶⽚",
+    "brandName": "壹丽安",
+    "manufacturer": "丽珠",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "艾曲泊帕⼄醇胺⽚",
+    "brandName": "瑞弗兰",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "艾沙妥昔单抗注射液",
+    "brandName": "赛可益",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "艾瑞昔布⽚",
+    "brandName": "恒扬",
+    "manufacturer": "恒瑞医药",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "艾美赛珠单抗注射液",
+    "brandName": "舒友⽴乐",
+    "manufacturer": "罗⽒(瑞⼠)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "艾考恩丙⽚",
+    "brandName": "捷扶康",
+    "manufacturer": "吉利德(美国)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "艾赛那肽注射液",
+    "brandName": "百泌达",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "阿仑膦酸钠⽚",
+    "brandName": "福善美",
+    "manufacturer": "默沙东(美国)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿仑膦酸钠维D3⽚",
+    "brandName": "II",
+    "manufacturer": "默沙东(美国)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿仑麟酸钠⽚",
+    "brandName": "福善美",
+    "manufacturer": "默沙东(美国)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿伐可汗胶囊",
+    "brandName": "特福尼",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "阿伐替尼⽚",
+    "brandName": "泰吉华",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿利古仑⽚",
+    "brandName": "锐思⼒",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿利西尤单抗注射液",
+    "brandName": "波⽴达",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "阿加曲班注射液",
+    "brandName": "诺保思泰",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "阿加糖酶α注射⽤浓溶液",
+    "brandName": "瑞普佳",
+    "manufacturer": "武⽥(⽇本)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "阿卡波糖⽚",
+    "brandName": "拜唐苹",
+    "manufacturer": "拜⽿(德国)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿卡波糖⽚",
+    "brandName": "拜唐苹",
+    "manufacturer": "拜⽿(德国)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿可替尼胶囊",
+    "brandName": "康可期",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "阿司匹林维⽣素C泡腾⽚",
+    "brandName": "拜阿司匹灵",
+    "manufacturer": "拜⽿(德国)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿司匹林肠溶⽚",
+    "brandName": "巴⽶尔",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿司匹林肠溶⽚",
+    "brandName": "拜阿司匹灵",
+    "manufacturer": "拜⽿(德国)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿哌沙班⽚",
+    "brandName": "艾乐妥",
+    "manufacturer": "BMS(美国)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿巴西普注射液",
+    "brandName": "恩瑞舒",
+    "manufacturer": "BMS(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "阿布昔替尼⽚",
+    "brandName": "希必可",
+    "manufacturer": "辉瑞(美国)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿帕他胺⽚",
+    "brandName": "安森珂",
+    "manufacturer": "强⽣(美国)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿德福韦酯⽚",
+    "brandName": "",
+    "manufacturer": "上海益⽣源",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿德福韦酯胶囊",
+    "brandName": "",
+    "manufacturer": "江苏正⼤天晴（泰中合",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "阿⼽美拉汀⽚",
+    "brandName": "维度新",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿托伐他汀钙⽚",
+    "brandName": "",
+    "manufacturer": "爱尔兰Pfizer",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿托伐他汀钙⽚",
+    "brandName": "⽴普妥",
+    "manufacturer": "辉致(美国)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿昔替尼⽚",
+    "brandName": "英⽴达",
+    "manufacturer": "辉瑞(美国)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿昔莫司胶囊",
+    "brandName": "乐脂平",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "阿普⽶司特⽚",
+    "brandName": "欧泰乐",
+    "manufacturer": "安进(美国)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿替利珠单抗注射液",
+    "brandName": "泰圣奇",
+    "manufacturer": "罗⽒(瑞⼠)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "阿替卡因肾上腺素注射液",
+    "brandName": "必兰",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "阿柏西普眼内注射溶液",
+    "brandName": "艾⼒雅",
+    "manufacturer": "拜⽿(德国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "阿法⾻化醇滴剂",
+    "brandName": "依安凡",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿法⾻化醇⽚",
+    "brandName": "",
+    "manufacturer": "⽇本帝⼈株式会社医药",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿法⾻化醇⽚",
+    "brandName": "萌格旺",
+    "manufacturer": "帝⼈",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿法⾻化醇软胶囊",
+    "brandName": "",
+    "manufacturer": "以⾊列梯⽡制药⼯业",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "阿法⾻化醇软胶囊",
+    "brandName": "依安凡",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "阿瑞匹坦胶囊",
+    "brandName": "意美",
+    "manufacturer": "默沙东(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "阿⽴哌唑⽚",
+    "brandName": "博思清",
+    "manufacturer": "浙江⼤家制药",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿⽴哌唑⽚",
+    "brandName": "安律凡",
+    "manufacturer": "⼤冢(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿维A胶囊",
+    "brandName": "",
+    "manufacturer": "加拿⼤PATHEON",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "阿维A胶囊",
+    "brandName": "新体卡松",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "阿苯达唑⽚",
+    "brandName": "肠⾍清",
+    "manufacturer": "中美（天津）史克制药",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿苯达唑⽚",
+    "brandName": "史克肠⾍清",
+    "manufacturer": "中美史克(英国)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿莫西林克拉维酸钾⼲混悬剂",
+    "brandName": "",
+    "manufacturer": "GSK(英国)",
+    "tags": [
+      "混悬剂"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "阿莫西林克拉维酸钾⼲混悬剂",
+    "brandName": "奥先",
+    "manufacturer": "澳美(中国⾹港)",
+    "tags": [
+      "混悬剂"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "阿莫西林克拉维酸钾⽚",
+    "brandName": "⼒百汀",
+    "manufacturer": "GSK(英国)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿莫西林克拉维酸钾⽚",
+    "brandName": "7:1",
+    "manufacturer": "澳美(中国⾹港)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿莫西林克拉维酸钾⽚",
+    "brandName": "莱得怡",
+    "manufacturer": "⼭德⼠",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿莫西林双氯西林钠胶囊",
+    "brandName": "澳⼴",
+    "manufacturer": "澳美(中国⾹港)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "阿莫西林胶囊",
+    "brandName": "阿莫灵",
+    "manufacturer": "澳美(中国⾹港)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "阿莫西林舒巴坦匹酯⽚",
+    "brandName": "特福望",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿莫西林舒巴坦⽚",
+    "brandName": "",
+    "manufacturer": "阿根廷Laborat",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿莫西林颗粒",
+    "brandName": "阿莫仙",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿贝西利⽚",
+    "brandName": "唯择",
+    "manufacturer": "礼来(美国)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿达帕林凝胶",
+    "brandName": "达芙⽂",
+    "manufacturer": "⾼德美(瑞⼠)",
+    "tags": [
+      "凝胶"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "阿达帕林凝胶",
+    "brandName": "达芙⽂",
+    "manufacturer": "⾼德美(瑞⼠)",
+    "tags": [
+      "凝胶"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "阿达⽊单抗注射液",
+    "brandName": "修美乐",
+    "manufacturer": "艾伯维(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "A",
+    "name": "阿那曲唑⽚",
+    "brandName": "瑞宁得",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿那曲唑⽚",
+    "brandName": "瑞宁得",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "A",
+    "name": "阿那⽩滞素注射液",
+    "brandName": "安纳定",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "丙戊酸钠⼝服溶液",
+    "brandName": "",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "丙戊酸钠⼝服溶液",
+    "brandName": "德巴⾦",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "丙戊酸钠缓释⽚",
+    "brandName": "德巴⾦",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "丙戊酸钠缓释⽚",
+    "brandName": "I",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "丙氨酰⾕氨酰胺注射液",
+    "brandName": "⼒太",
+    "manufacturer": "费森尤斯(德国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "丙泊酚乳状注射液",
+    "brandName": "静安",
+    "manufacturer": "费森尤斯(德国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "丙硫氧嘧啶⽚",
+    "brandName": "露玛",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "丙酸倍氯⽶松⿐⽓雾剂",
+    "brandName": "",
+    "manufacturer": "GSK(英国)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "丙酸氟替卡松乳膏",
+    "brandName": "",
+    "manufacturer": "GSK(英国)",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "丙酸氟替卡松乳膏",
+    "brandName": "克廷肤",
+    "manufacturer": "GSK(英国)",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "丙酸氟替卡松吸⼊⽓雾剂",
+    "brandName": "",
+    "manufacturer": "GSK(英国)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "丙酸氟替卡松吸⼊⽓雾剂",
+    "brandName": "辅舒酮",
+    "manufacturer": "GSK(英国)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "丙酸氟替卡松⿐喷雾剂",
+    "brandName": "",
+    "manufacturer": "GSK(英国)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "丙酸氟替卡松⿐喷雾剂",
+    "brandName": "辅舒良",
+    "manufacturer": "赫⼒昂(英国)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "吡仑帕奈⽚",
+    "brandName": "卫克泰",
+    "manufacturer": "卫材(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "吡罗昔康贴⽚",
+    "brandName": "Trast",
+    "manufacturer": "",
+    "tags": [
+      "贴剂"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "吡美莫司乳膏",
+    "brandName": "爱宁达",
+    "manufacturer": "辉致(美国)",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "吡诺克⾟滴眼液",
+    "brandName": "卡林优",
+    "manufacturer": "",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "吡诺克⾟钠滴眼液",
+    "brandName": "研⽴双",
+    "manufacturer": "参天制药",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "巴氯芬⽚",
+    "brandName": "",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "巴氯芬⽚",
+    "brandName": "⼒奥来素",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "巴瑞替尼⽚",
+    "brandName": "艾乐明",
+    "manufacturer": "礼来(美国)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "布南⾊林⽚",
+    "brandName": "洛珊",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "布地奈德吸⼊⽓雾剂",
+    "brandName": "普⽶克",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "布地奈德福莫特罗吸⼊粉雾剂",
+    "brandName": "I",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "布地奈德福莫特罗吸⼊粉雾剂",
+    "brandName": "II",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "布地奈德福莫特罗粉吸⼊剂",
+    "brandName": "",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "布地奈德粉吸⼊剂",
+    "brandName": "",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "布地奈德⿐喷雾剂",
+    "brandName": "雷诺考特",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "布地奈德⿐喷雾剂",
+    "brandName": "雷诺考特",
+    "manufacturer": "强⽣(美国)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "布地格福吸⼊⽓雾剂",
+    "brandName": "倍择瑞",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "布拉⽒酵母菌散",
+    "brandName": "亿活",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "布拉⽒酵母菌胶囊",
+    "brandName": "亿活",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "布林佐胺滴眼液",
+    "brandName": "",
+    "manufacturer": "爱尔康(美国)",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "布林佐胺滴眼液",
+    "brandName": "派⽴明",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "布格替尼⽚",
+    "brandName": "安伯瑞",
+    "manufacturer": "武⽥(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "布洛伪⿇混悬液",
+    "brandName": "美林",
+    "manufacturer": "强⽣(美国)",
+    "tags": [
+      "混悬剂"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "布洛芬乳膏",
+    "brandName": "芬必得",
+    "manufacturer": "中美史克(英国)",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "布洛芬咀嚼⽚",
+    "brandName": "芬必得",
+    "manufacturer": "中美史克(英国)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "布洛芬混悬液",
+    "brandName": "美林",
+    "manufacturer": "强⽣(美国)",
+    "tags": [
+      "混悬剂"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "布洛芬混悬滴剂",
+    "brandName": "美林",
+    "manufacturer": "强⽣(美国)",
+    "tags": [
+      "混悬剂"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "布洛芬⽚",
+    "brandName": "芬必得",
+    "manufacturer": "赫⼒昂(英国)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "布洛芬缓释胶囊",
+    "brandName": "芬必得",
+    "manufacturer": "中美天津史克制药",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "布洛芬缓释胶囊",
+    "brandName": "芬必得",
+    "manufacturer": "中美史克(英国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "布瑞哌唑⽚",
+    "brandName": "锐思定",
+    "manufacturer": "⼤冢(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "布罗利尤单抗注射液",
+    "brandName": "⽴美芙",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "布罗索尤单抗注射液",
+    "brandName": "麟平",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "本瑞利珠单抗注射液",
+    "brandName": "凡舒卓",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "⽐克恩丙诺⽚",
+    "brandName": "必妥维",
+    "manufacturer": "吉利德(美国)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "⽐卡鲁胺⽚",
+    "brandName": "",
+    "manufacturer": "德国CORDEN P",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "⽐卡鲁胺⽚",
+    "brandName": "康⼠得",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "⽐奇珠单抗注射液",
+    "brandName": "倍捷乐",
+    "manufacturer": "优时⽐(⽐利时)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "⽐索洛尔氨氯地平⽚",
+    "brandName": "康忻安",
+    "manufacturer": "默克(德国)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "泊沙康唑⼝服混悬液",
+    "brandName": "诺科飞",
+    "manufacturer": "默沙东(美国)",
+    "tags": [
+      "混悬剂"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "泊沙康唑肠溶⽚",
+    "brandName": "诺科飞",
+    "manufacturer": "默沙东(美国)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "泊那替尼⽚",
+    "brandName": "普可欣",
+    "manufacturer": "⼤冢(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "波⽣坦分散⽚",
+    "brandName": "全可利",
+    "manufacturer": "强⽣(美国)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "波⽣坦⽚",
+    "brandName": "全可利",
+    "manufacturer": "强⽣(美国)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "玻璃酸钠注射液",
+    "brandName": "阿尔治",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "玻璃酸钠滴眼液",
+    "brandName": "爱丽",
+    "manufacturer": "参天制药",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "⽩消安注射液",
+    "brandName": "⽩舒⾮",
+    "manufacturer": "⼤冢(⽇本)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "⽩消安⽚",
+    "brandName": "马利兰",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "苯丁酸氮芥⽚",
+    "brandName": "",
+    "manufacturer": "德国Heumann",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "苯丁酸氮芥⽚",
+    "brandName": "留可然",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "苯扎氯铵贴",
+    "brandName": "邦迪",
+    "manufacturer": "强⽣(美国)",
+    "tags": [
+      "贴剂"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "苯溴马隆⽚",
+    "brandName": "⽴加利仙",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "苯甲酸阿格列汀⽚",
+    "brandName": "尼欣那",
+    "manufacturer": "武⽥(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "苯磺贝他斯汀⽚",
+    "brandName": "坦亮",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "苯磺酸左旋氨氯地平⽚",
+    "brandName": "",
+    "manufacturer": "施慧达(吉林)有限公司)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "苯磺酸氨氯地平⽚",
+    "brandName": "络活喜",
+    "manufacturer": "辉瑞(美国)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "苯磺酸氨氯地平⽚",
+    "brandName": "络活喜",
+    "manufacturer": "辉致(美国)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "苯磺酸美洛加林⽚",
+    "brandName": "德⼒静",
+    "manufacturer": "第⼀三共(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "苯磺顺阿曲库铵注射液",
+    "brandName": "赛机宁",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "贝伐珠单抗注射液",
+    "brandName": "安维汀",
+    "manufacturer": "罗⽒(瑞⼠)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "贝前列素钠⽚",
+    "brandName": "",
+    "manufacturer": "安斯泰来(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "贝前列素钠⽚",
+    "brandName": "德纳",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "贝⽶肝素钠注射液",
+    "brandName": "希保",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "贝组替凡⽚",
+    "brandName": "维利瑞",
+    "manufacturer": "默沙东(美国)",
+    "tags": []
+  },
+  {
+    "letter": "B",
+    "name": "贝美前列素滴眼液",
+    "brandName": "",
+    "manufacturer": "美国Allergan",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "贝美前列素滴眼液",
+    "brandName": "卢美根",
+    "manufacturer": "艾伯维(美国)",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "B",
+    "name": "贝那普利氢氯噻嗪⽚",
+    "brandName": "",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "C",
+    "name": "肠内营养乳剂",
+    "brandName": "TP",
+    "manufacturer": "费卡华瑞(德国)",
+    "tags": []
+  },
+  {
+    "letter": "C",
+    "name": "肠内营养乳剂",
+    "brandName": "TP-HE",
+    "manufacturer": "费卡华瑞(德国)",
+    "tags": []
+  },
+  {
+    "letter": "C",
+    "name": "肠内营养乳剂",
+    "brandName": "TPF",
+    "manufacturer": "费卡华瑞(德国)",
+    "tags": []
+  },
+  {
+    "letter": "C",
+    "name": "肠内营养乳剂",
+    "brandName": "TPF-D",
+    "manufacturer": "费卡华瑞(德国)",
+    "tags": []
+  },
+  {
+    "letter": "C",
+    "name": "肠内营养乳剂",
+    "brandName": "TPF-T",
+    "manufacturer": "费卡华瑞(德国)",
+    "tags": []
+  },
+  {
+    "letter": "C",
+    "name": "肠内营养混悬液",
+    "brandName": "TPF-D",
+    "manufacturer": "雅培(美国)",
+    "tags": [
+      "混悬剂"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "地夸磷索钠滴眼液",
+    "brandName": "丽爱思",
+    "manufacturer": "参天制药",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "地奥司明⽚",
+    "brandName": "爱脉朗",
+    "manufacturer": "施维雅(法国)",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "地屈孕酮⽚",
+    "brandName": "唯散宁",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "地屈孕酮⽚",
+    "brandName": "达芙通",
+    "manufacturer": "雅培(美国)",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "地拉罗司分散⽚",
+    "brandName": "恩瑞格",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "地氯胶",
+    "brandName": "优宁",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "地氯雷他定⽚",
+    "brandName": "",
+    "manufacturer": "意⼤利Scherin",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "地氯雷他定⽚",
+    "brandName": "恩理思",
+    "manufacturer": "欧加隆(美国)",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "地特胰岛素注射液",
+    "brandName": "诺和平",
+    "manufacturer": "诺和诺德(丹麦)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "地舒单抗注射液",
+    "brandName": "安加维",
+    "manufacturer": "安进(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "地诺前列酮栓",
+    "brandName": "欣普贝⽣",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "地⾼⾟⽚",
+    "brandName": "可⼒",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "多奈单抗注射液",
+    "brandName": "记能达",
+    "manufacturer": "礼来(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "多巴丝肼⽚",
+    "brandName": "",
+    "manufacturer": "罗⽒(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "多巴丝肼⽚",
+    "brandName": "美多芭",
+    "manufacturer": "罗⽒(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "多拉⽶替⽚",
+    "brandName": "德思卓",
+    "manufacturer": "默沙东(美国)",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "多拉韦林⽚",
+    "brandName": "沛卓",
+    "manufacturer": "默沙东(美国)",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "多替拉韦钠⽚",
+    "brandName": "特威凯",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "多替诺雷⽚",
+    "brandName": "优乐恩",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "多替阿巴拉⽶⽚",
+    "brandName": "绥美凯",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "多潘⽴酮混悬液",
+    "brandName": "",
+    "manufacturer": "杨森(美国)",
+    "tags": [
+      "混悬剂"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "多潘⽴酮⽚",
+    "brandName": "吗丁啉",
+    "manufacturer": "杨森(美国)",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "多潘⽴酮⽚",
+    "brandName": "吗丁啉",
+    "manufacturer": "强⽣(美国)",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "多烯磷脂酰胆碱胶囊",
+    "brandName": "易善复",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "多烯磷脂酰胆碱胶囊",
+    "brandName": "易善复",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "多⽢烷醇⽚",
+    "brandName": "Policosanol",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "多磺酸粘多糖乳膏",
+    "brandName": "喜辽妥",
+    "manufacturer": "",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "多种微量元素注射液",
+    "brandName": "II",
+    "manufacturer": "费卡华瑞(德国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "多种微量元素注射液",
+    "brandName": "来维",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "多糖铁复合物胶囊",
+    "brandName": "⼒蜚能",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "多维元素⽚",
+    "brandName": "26",
+    "manufacturer": "BMS(美国)",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "多维元素⽚",
+    "brandName": "29",
+    "manufacturer": "赫⼒昂(英国)",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "多维元素⽚",
+    "brandName": "29-II",
+    "manufacturer": "赫⼒昂(英国)",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "多西他赛注射液",
+    "brandName": "泰索帝",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "对⼄酰氨基酚⼝服混悬液",
+    "brandName": "泰诺林",
+    "manufacturer": "强⽣(美国)",
+    "tags": [
+      "混悬剂"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "对⼄酰氨基酚⼝服溶液",
+    "brandName": "泰诺林",
+    "manufacturer": "强⽣(美国)",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "对⼄酰氨基酚混悬滴剂",
+    "brandName": "泰诺林",
+    "manufacturer": "强⽣(美国)",
+    "tags": [
+      "混悬剂"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "对⼄酰氨基酚滴剂",
+    "brandName": "泰诺林",
+    "manufacturer": "强⽣(美国)",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "对⼄酰氨基酚⽚",
+    "brandName": "必理通",
+    "manufacturer": "中美史克(英国)",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "对⼄酰氨基酚⽚",
+    "brandName": "泰诺林",
+    "manufacturer": "强⽣(美国)",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "对⼄酰氨基酚缓释⽚",
+    "brandName": "泰诺林",
+    "manufacturer": "强⽣(美国)",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "度他雄胺软胶囊",
+    "brandName": "安福达",
+    "manufacturer": "GSK(英国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "度伐利尤单抗注射液",
+    "brandName": "英飞凡",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "度拉糖肽注射液",
+    "brandName": "度易达",
+    "manufacturer": "礼来(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "度普利尤单抗注射液",
+    "brandName": "达必妥",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "度维利塞胶囊",
+    "brandName": "克必妥",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "德拉马尼⽚",
+    "brandName": "德尔巴",
+    "manufacturer": "⼤冢(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "德⾕胰岛素利拉鲁肽注射液",
+    "brandName": "诺和益",
+    "manufacturer": "诺和诺德(丹麦)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "德⾕胰岛素注射液",
+    "brandName": "诺和达",
+    "manufacturer": "诺和诺德(丹麦)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "德⾕门冬双胰岛素注射液",
+    "brandName": "诺和佳",
+    "manufacturer": "诺和诺德(丹麦)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "氘丁苯那嗪⽚",
+    "brandName": "安泰坦",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "氘可来昔替尼⽚",
+    "brandName": "颂狄多",
+    "manufacturer": "BMS(美国)",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "短肽型肠内营养剂",
+    "brandName": "百普素",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "碘佛醇注射液",
+    "brandName": "安射⼒",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "碘克沙醇注射液",
+    "brandName": "威视派克",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "碘化油注射液",
+    "brandName": "Lipiodol Ultra Fluide",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "碘帕醇注射液",
+    "brandName": "典⽐乐",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "碘普罗胺注射液",
+    "brandName": "优维显",
+    "manufacturer": "拜⽿(德国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "碘⽐醇注射液",
+    "brandName": "三代显",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "碘海醇注射液",
+    "brandName": "欧乃派克",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "碘美普尔注射液",
+    "brandName": "典迈伦",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "肚痛泻丸",
+    "brandName": "奥松",
+    "manufacturer": "澳美(中国⾹港)",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "蛋⽩琥珀酸铁⼝服溶液",
+    "brandName": "菲普利",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "达依泊汀α注射液",
+    "brandName": "耐斯宝",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "达可替尼⽚",
+    "brandName": "多泽润",
+    "manufacturer": "辉瑞(美国)",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "达妥昔单抗β注射液",
+    "brandName": "凯泽百",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "达格列净⽚",
+    "brandName": "安达唐",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "达⽐加群酯胶囊",
+    "brandName": "泰毕全",
+    "manufacturer": "勃林格(德国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "达沙替尼⽚",
+    "brandName": "施达赛",
+    "manufacturer": "BMS(美国)",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "达罗他胺⽚",
+    "brandName": "诺倍⼽",
+    "manufacturer": "拜⽿(德国)",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "达肝素钠注射液",
+    "brandName": "法安明",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "达芦那韦考⽐司他⽚",
+    "brandName": "普泽⼒",
+    "manufacturer": "强⽣(美国)",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "达诺瑞韦钠⽚",
+    "brandName": "⼽诺卫",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "D",
+    "name": "达雷妥尤单抗注射液",
+    "brandName": "兆珂",
+    "manufacturer": "强⽣(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "D",
+    "name": "达雷妥尤单抗注射液",
+    "brandName": "⽪下注射",
+    "manufacturer": "强⽣(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "E",
+    "name": "⼆甲双胍维格列汀⽚",
+    "brandName": "II",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "E",
+    "name": "⼆甲双胍马来酸罗格列酮⽚(薄",
+    "brandName": "",
+    "manufacturer": "GSK(英国)",
+    "tags": []
+  },
+  {
+    "letter": "E",
+    "name": "⼉童复⽅氨酚肾素⽚",
+    "brandName": "⼉童科达琳",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "E",
+    "name": "厄贝沙坦氢氯噻嗪⽚",
+    "brandName": "",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": []
+  },
+  {
+    "letter": "E",
+    "name": "厄贝沙坦氢氯噻嗪⽚",
+    "brandName": "安博诺",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": []
+  },
+  {
+    "letter": "E",
+    "name": "厄贝沙坦⽚",
+    "brandName": "安博维",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": []
+  },
+  {
+    "letter": "E",
+    "name": "厄贝沙坦⽚",
+    "brandName": "安博维",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": []
+  },
+  {
+    "letter": "E",
+    "name": "厄达替尼⽚",
+    "brandName": "博珂",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "复⽅a-酮酸⽚",
+    "brandName": "",
+    "manufacturer": "费森尤斯(德国)",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "复⽅α-酮酸⽚",
+    "brandName": "开同",
+    "manufacturer": "费森尤斯(德国)",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "复⽅倍他⽶松注射液",
+    "brandName": "得宝松",
+    "manufacturer": "欧加隆(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "复⽅克霉唑乳膏",
+    "brandName": "II",
+    "manufacturer": "澳美(中国⾹港)",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "复⽅奎宁注射液",
+    "brandName": "好及施",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "复⽅对⼄酰氨基酚⽚",
+    "brandName": "II",
+    "manufacturer": "拜⽿(德国)",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "复⽅尿囊素洗眼液",
+    "brandName": "中鑫",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "复⽅异丙托溴铵⽓雾剂",
+    "brandName": "",
+    "manufacturer": "勃林格(德国)",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "复⽅托吡卡胺滴眼液",
+    "brandName": "美多丽",
+    "manufacturer": "参天制药",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "复⽅曲安奈德乳膏",
+    "brandName": "",
+    "manufacturer": "BMS(美国)",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "复⽅枸橼酸阿尔维林软胶囊",
+    "brandName": "乐健素",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "复⽅氟⽶松软膏",
+    "brandName": "奥深",
+    "manufacturer": "澳美(中国⾹港)",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "复⽅氨基酸",
+    "brandName": "15",
+    "manufacturer": "费森尤斯(德国)",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "复⽅氨基酸注射液",
+    "brandName": "18AA-I",
+    "manufacturer": "费卡华瑞(德国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "复⽅氨基酸注射液",
+    "brandName": "18AA-II",
+    "manufacturer": "费卡华瑞(德国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "复⽅氨基酸注射液",
+    "brandName": "18AA-VII",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "复⽅氨肽素⽚",
+    "brandName": "消⼒克",
+    "manufacturer": "卫材(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "复⽅氨酚溴敏胶囊",
+    "brandName": "美肯能",
+    "manufacturer": "澳美(中国⾹港)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "复⽅氨酚肾素⽚",
+    "brandName": "科达琳",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "复⽅氯雷他定缓释胶囊",
+    "brandName": "II",
+    "manufacturer": "赫⼒昂(英国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "复⽅⽔杨酸甲酯巴布膏",
+    "brandName": "冷巴",
+    "manufacturer": "",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "复⽅消化酶⽚",
+    "brandName": "贝尔渭",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "复⽅消化酶胶囊",
+    "brandName": "达吉",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "复⽅⽢刺利多卡因凝胶",
+    "brandName": "⽢美达",
+    "manufacturer": "",
+    "tags": [
+      "凝胶"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "复⽅⽢草酸苷注射液",
+    "brandName": "美能",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "复⽅⽢草酸苷⽚",
+    "brandName": "美能",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "复⽅甲氧那明胶囊",
+    "brandName": "阿斯美",
+    "manufacturer": "第⼀三共(⽇本)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "复⽅盐酸伪⿇黄碱缓释胶囊",
+    "brandName": "新康泰克",
+    "manufacturer": "中美史克(英国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "复⽅碳酸钙咀嚼⽚",
+    "brandName": "罗内",
+    "manufacturer": "拜⽿(德国)",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "复⽅磷酸可待因⼝服溶液",
+    "brandName": "III",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "复⽅磷酸可待因⼝服溶液",
+    "brandName": "奥亭",
+    "manufacturer": "澳美(中国⾹港)",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "复⽅磷酸可待因溶液",
+    "brandName": "II",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "复⽅福尔可定⼝服溶液",
+    "brandName": "澳特斯",
+    "manufacturer": "澳美(中国⾹港)",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "复⽅维⽣素U⽚",
+    "brandName": "维仙优",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "复⽅聚⼄⼆醇电解质散",
+    "brandName": "III",
+    "manufacturer": "益普⽣(法国)",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "复⽅肝素钠尿囊素凝胶",
+    "brandName": "康瑞保",
+    "manufacturer": "",
+    "tags": [
+      "凝胶"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "复⽅胃膜素⽚",
+    "brandName": "贝尔谢博⽒",
+    "manufacturer": "卫材(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "复⽅脑蛋⽩⽔解物⽚",
+    "brandName": "普利安",
+    "manufacturer": "卫材(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "复⽅⾓菜酸酯乳膏",
+    "brandName": "太宁",
+    "manufacturer": "强⽣(美国)",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "复⽅⾓菜酸酯栓",
+    "brandName": "太宁",
+    "manufacturer": "强⽣(美国)",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "复⽅阿胶浆",
+    "brandName": "复⽅阿胶浆",
+    "manufacturer": "卫材(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "氟伐他汀钠胶囊",
+    "brandName": "",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "氟伐他汀钠胶囊",
+    "brandName": "来适可",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "氟哌噻吨/美利曲⾟⽚",
+    "brandName": "",
+    "manufacturer": "灵北(丹麦)",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "氟哌噻吨美利曲⾟⽚",
+    "brandName": "黛⼒新",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "氟康唑氯化钠注射液",
+    "brandName": "⼤扶康",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "氟康唑胶囊",
+    "brandName": "",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "氟康唑胶囊",
+    "brandName": "⼤扶康",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "氟⽐洛芬酯注射液",
+    "brandName": "凯纷",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "氟氯西林钠胶囊",
+    "brandName": "奥伟林",
+    "manufacturer": "澳美(中国⾹港)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "氟⽶龙滴眼液",
+    "brandName": "",
+    "manufacturer": "爱尔兰Allerga",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "氟⽶龙滴眼液",
+    "brandName": "氟美童",
+    "manufacturer": "参天制药",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "氟维司群注射液",
+    "brandName": "芙仕得",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "法瑞西单抗注射液",
+    "brandName": "罗视佳",
+    "manufacturer": "罗⽒(瑞⼠)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "法莫替丁⽚",
+    "brandName": "",
+    "manufacturer": "安斯泰来(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "福⾟普利钠⽚",
+    "brandName": "",
+    "manufacturer": "BMS(美国)",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "福⾟普利钠⽚",
+    "brandName": "蒙诺",
+    "manufacturer": "BMS(美国)",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "芬太尼透⽪贴剂",
+    "brandName": "多瑞吉",
+    "manufacturer": "强⽣(美国)",
+    "tags": [
+      "贴剂"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "辅酶Q10⽚",
+    "brandName": "",
+    "manufacturer": "卫材(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "酚咖⽚",
+    "brandName": "加合百服宁",
+    "manufacturer": "BMS(美国)",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "酚咖⽚",
+    "brandName": "芬必得",
+    "manufacturer": "中美史克(英国)",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "酚⿇美敏⼝服溶液",
+    "brandName": "泰诺",
+    "manufacturer": "强⽣(美国)",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "酚⿇美敏咀嚼⽚",
+    "brandName": "泰诺",
+    "manufacturer": "强⽣(美国)",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "酚⿇美敏⽚",
+    "brandName": "泰诺",
+    "manufacturer": "强⽣(美国)",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "⾮奈利酮⽚",
+    "brandName": "可申达",
+    "manufacturer": "拜⽿(德国)",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "⾮布司他⽚",
+    "brandName": "菲布⼒",
+    "manufacturer": "帝⼈",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "⾮洛地平缓释⽚",
+    "brandName": "波依定",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "⾮洛地平缓释⽚",
+    "brandName": "波依定",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "⾮诺贝特⽚",
+    "brandName": "III",
+    "manufacturer": "法国利博福尼制药(Laboratoires)",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "⾮诺贝特⽚",
+    "brandName": "III",
+    "manufacturer": "雅培(美国)",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "⾮诺贝特胶囊",
+    "brandName": "",
+    "manufacturer": "法国利博福尼制药(Laboratoires)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "⾮诺贝特胶囊",
+    "brandName": "⼒平之",
+    "manufacturer": "雅培(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "F",
+    "name": "⾮那雄胺⽚",
+    "brandName": "",
+    "manufacturer": "波多黎各Merck",
+    "tags": []
+  },
+  {
+    "letter": "F",
+    "name": "⾮那雄胺⽚",
+    "brandName": "保法⽌",
+    "manufacturer": "欧加隆(美国)",
+    "tags": []
+  },
+  {
+    "letter": "G",
+    "name": "古塞奇尤单抗注射液",
+    "brandName": "特诺雅",
+    "manufacturer": "强⽣(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "G",
+    "name": "⼽利⽊单抗注射液",
+    "brandName": "欣普尼",
+    "manufacturer": "强⽣(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "G",
+    "name": "枸橼酸伊沙佐⽶胶囊",
+    "brandName": "恩莱瑞",
+    "manufacturer": "武⽥(⽇本)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "G",
+    "name": "枸橼酸咖啡因注射液",
+    "brandName": "倍优诺",
+    "manufacturer": "凯西制药",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "G",
+    "name": "枸橼酸喷待钠颗粒",
+    "brandName": "友来特",
+    "manufacturer": "辉致(美国)",
+    "tags": []
+  },
+  {
+    "letter": "G",
+    "name": "枸橼酸坦度螺酮⽚",
+    "brandName": "希德",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "G",
+    "name": "枸橼酸托法替布⽚",
+    "brandName": "尚杰",
+    "manufacturer": "辉瑞(美国)",
+    "tags": []
+  },
+  {
+    "letter": "G",
+    "name": "枸橼酸托瑞⽶芬⽚",
+    "brandName": "法乐通",
+    "manufacturer": "奥⽴安",
+    "tags": []
+  },
+  {
+    "letter": "G",
+    "name": "枸橼酸氯⽶芬⽚",
+    "brandName": "法地兰",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "G",
+    "name": "枸橼酸莫沙必利⽚",
+    "brandName": "加斯清",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "G",
+    "name": "枸橼酸西地那⾮⽚",
+    "brandName": "万艾可",
+    "manufacturer": "辉致(美国)",
+    "tags": []
+  },
+  {
+    "letter": "G",
+    "name": "柑橘黄酮⽚",
+    "brandName": "爱脉朗",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "G",
+    "name": "格列吡嗪控释⽚",
+    "brandName": "",
+    "manufacturer": "辉瑞(美国)",
+    "tags": []
+  },
+  {
+    "letter": "G",
+    "name": "格列吡嗪控释⽚",
+    "brandName": "瑞易宁",
+    "manufacturer": "辉瑞(美国)",
+    "tags": []
+  },
+  {
+    "letter": "G",
+    "name": "格列吡嗪⽚",
+    "brandName": "",
+    "manufacturer": "辉瑞(美国)",
+    "tags": []
+  },
+  {
+    "letter": "G",
+    "name": "格列喹酮⽚",
+    "brandName": "",
+    "manufacturer": "北京万辉双鹤",
+    "tags": []
+  },
+  {
+    "letter": "G",
+    "name": "格列美脲⽚",
+    "brandName": "亚莫利",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": []
+  },
+  {
+    "letter": "G",
+    "name": "格列美脲⽚",
+    "brandName": "亚莫利",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": []
+  },
+  {
+    "letter": "G",
+    "name": "格列齐特⽚",
+    "brandName": "II",
+    "manufacturer": "天津华津制药",
+    "tags": []
+  },
+  {
+    "letter": "G",
+    "name": "格列齐特⽚",
+    "brandName": "II",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "G",
+    "name": "格列齐特缓释⽚",
+    "brandName": "达美康",
+    "manufacturer": "施维雅(法国)",
+    "tags": []
+  },
+  {
+    "letter": "G",
+    "name": "格卡瑞韦哌仑他韦⽚",
+    "brandName": "艾诺全",
+    "manufacturer": "艾伯维(美国)",
+    "tags": []
+  },
+  {
+    "letter": "G",
+    "name": "格菲妥珠单抗注射液",
+    "brandName": "⾼罗华",
+    "manufacturer": "罗⽒(瑞⼠)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "G",
+    "name": "格隆溴铵吸⼊粉雾剂",
+    "brandName": "希润",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "G",
+    "name": "格隆溴铵福莫特罗吸⼊⽓雾剂",
+    "brandName": "百沃平令畅",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "G",
+    "name": "⽢油果糖氯化钠注射液",
+    "brandName": "固利压",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "G",
+    "name": "⽢油磷酸钠注射液",
+    "brandName": "格利福斯",
+    "manufacturer": "费卡华瑞(德国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "G",
+    "name": "⽢精胰岛素利司那肽注射液",
+    "brandName": "I",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "G",
+    "name": "⽢精胰岛素注射液",
+    "brandName": "来得时",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "G",
+    "name": "⽢草酸⼆铵肠溶胶囊",
+    "brandName": "",
+    "manufacturer": "江苏正⼤天晴",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "G",
+    "name": "⽢草酸⼆铵胶囊",
+    "brandName": "",
+    "manufacturer": "江苏正⼤天晴",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "G",
+    "name": "癸酸氟纳哌啶醇注射液",
+    "brandName": "哈⼒多",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "G",
+    "name": "硅障钙素注射液",
+    "brandName": "密盖息",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "G",
+    "name": "硅障钙素⿐⽤喷雾剂",
+    "brandName": "密盖息",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "G",
+    "name": "肝素钠含⽚",
+    "brandName": "消栓灵",
+    "manufacturer": "卫材(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "G",
+    "name": "⾕赖胰岛素注射液",
+    "brandName": "艾倍得",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "G",
+    "name": "过氧化苯甲酰凝胶",
+    "brandName": "班赛",
+    "manufacturer": "",
+    "tags": [
+      "凝胶"
+    ]
+  },
+  {
+    "letter": "G",
+    "name": "钆双胺注射液",
+    "brandName": "欧乃影",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "G",
+    "name": "钆喷酸葡胺注射液",
+    "brandName": "马根维显",
+    "manufacturer": "拜⽿(德国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "G",
+    "name": "钆塞酸⼆钠注射液",
+    "brandName": "普美显",
+    "manufacturer": "拜⽿(德国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "G",
+    "name": "钆布醇注射液",
+    "brandName": "加乐显",
+    "manufacturer": "拜⽿(德国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "G",
+    "name": "钆特酸葡胺注射液",
+    "brandName": "多它灵",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "G",
+    "name": "钆特醇注射液",
+    "brandName": "普海司",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "G",
+    "name": "钆贝葡胺注射液",
+    "brandName": "莫迪司",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "G",
+    "name": "⾻化三醇胶丸",
+    "brandName": "罗盖全",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "G",
+    "name": "⾻化三醇软胶囊",
+    "brandName": "罗盖全",
+    "manufacturer": "罗⽒(瑞⼠)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "G",
+    "name": "⾻化三醇软胶囊",
+    "brandName": "海尼威",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "G",
+    "name": "⿁⾅毒素溶液",
+    "brandName": "慷定来",
+    "manufacturer": "武⽥(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "G",
+    "name": "鲑鱼降钙素⿐喷剂",
+    "brandName": "",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "H",
+    "name": "华法林钠⽚",
+    "brandName": "Marevan",
+    "manufacturer": "奥⽴安",
+    "tags": []
+  },
+  {
+    "letter": "H",
+    "name": "环丝氨酸胶囊",
+    "brandName": "达斯利康",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "H",
+    "name": "环孢素注射液",
+    "brandName": "⼭地明",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "H",
+    "name": "环孢素软胶囊",
+    "brandName": "",
+    "manufacturer": "德国R.P.Sche",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "H",
+    "name": "环孢素软胶囊",
+    "brandName": "新⼭地明",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "H",
+    "name": "环硅酸锆钠散",
+    "brandName": "利倍卓",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "H",
+    "name": "琥珀酸普鲁卡利⽚",
+    "brandName": "凯丽隆",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "H",
+    "name": "琥珀酸索利那新⽚",
+    "brandName": "卫喜康",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "H",
+    "name": "琥珀酸美托洛尔缓释⽚",
+    "brandName": "倍他乐克",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "H",
+    "name": "磺达肝癸钠注射液",
+    "brandName": "安卓",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "H",
+    "name": "红药⽚",
+    "brandName": "贝尔严清",
+    "manufacturer": "卫材(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "H",
+    "name": "黄体酮软胶囊",
+    "brandName": "安琪坦",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "J",
+    "name": "交联玻璃酸钠注射液",
+    "brandName": "欣维可",
+    "manufacturer": "健赞",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "J",
+    "name": "加卡奈珠单抗注射液",
+    "brandName": "感加⼒",
+    "manufacturer": "礼来(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "J",
+    "name": "加替沙星滴眼液",
+    "brandName": "美清朗",
+    "manufacturer": "⼤冢(⽇本)",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "J",
+    "name": "加那索龙⼝服混悬液",
+    "brandName": "泽元安",
+    "manufacturer": "",
+    "tags": [
+      "混悬剂"
+    ]
+  },
+  {
+    "letter": "J",
+    "name": "吉⾮替尼⽚",
+    "brandName": "",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "吉⾮替尼⽚",
+    "brandName": "易瑞沙",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "甲氧聚⼆醇重组⼈促红素注射液",
+    "brandName": "美信罗",
+    "manufacturer": "罗⽒(瑞⼠)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "J",
+    "name": "甲氨蝶呤注射液",
+    "brandName": "美素⽣",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "J",
+    "name": "甲泼尼龙⽚",
+    "brandName": "",
+    "manufacturer": "意⼤利法玛西亚Pha",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "甲泼尼龙⽚",
+    "brandName": "美卓乐",
+    "manufacturer": "辉瑞(美国)",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "甲疏咪唑⽚",
+    "brandName": "赛治",
+    "manufacturer": "默克(德国)",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "甲硝唑阴道泡腾⽚",
+    "brandName": "贝尔严清",
+    "manufacturer": "卫材(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "甲磺酸⼆氢麦⾓碱缓释胶囊",
+    "brandName": "",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "J",
+    "name": "甲磺酸仑伐替尼胶囊",
+    "brandName": "乐卫玛",
+    "manufacturer": "卫材(⽇本)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "J",
+    "name": "甲磺酸伊马替尼⽚",
+    "brandName": "",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "甲磺酸伊马替尼⽚",
+    "brandName": "格列卫",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "甲磺酸伊马替尼胶囊",
+    "brandName": "",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "J",
+    "name": "甲磺酸倍他司汀⽚",
+    "brandName": "",
+    "manufacturer": "卫材(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "甲磺酸倍他司汀⽚",
+    "brandName": "敏使朗",
+    "manufacturer": "卫材(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "甲磺酸古⽶沙星⽚",
+    "brandName": "吉速星",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "甲磺酸吉⽶沙星⽚",
+    "brandName": "",
+    "manufacturer": "韩国LG Life",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "甲磺酸多沙唑嗪缓释⽚",
+    "brandName": "",
+    "manufacturer": "美国Pfizer P",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "甲磺酸多沙唑嗪缓释⽚",
+    "brandName": "可多华",
+    "manufacturer": "辉致(美国)",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "甲磺酸奥希替尼⽚",
+    "brandName": "泰瑞沙",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "甲磺酸溴隐亭⽚",
+    "brandName": "",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "甲磺酸溴隐亭⽚",
+    "brandName": "Parlodel",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "甲磺酸贝舒地尔⽚",
+    "brandName": "易来克",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "甲磺酸达拉⾮尼胶囊",
+    "brandName": "泰菲乐",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "J",
+    "name": "甲磺酸阿帕替尼⽚",
+    "brandName": "艾坦",
+    "manufacturer": "恒瑞医药",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "甲磺酸雷沙吉兰⽚",
+    "brandName": "安齐来",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "甲苯咪唑⽚",
+    "brandName": "",
+    "manufacturer": "杨森(美国)",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "甲苯咪唑⽚",
+    "brandName": "安乐⼠",
+    "manufacturer": "强⽣(美国)",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "甲苯磺酸他拉唑帕利胶囊",
+    "brandName": "泰泽纳",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "J",
+    "name": "甲苯磺酸利特昔替尼胶囊",
+    "brandName": "乐复诺",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "J",
+    "name": "甲苯磺酸拉帕替尼⽚",
+    "brandName": "泰⽴沙",
+    "manufacturer": "GSK(英国)",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "甲苯磺酸索拉⾮尼⽚",
+    "brandName": "",
+    "manufacturer": "德国Bayer He",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "甲苯磺酸索拉⾮尼⽚",
+    "brandName": "多吉美",
+    "manufacturer": "拜⽿(德国)",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "甲苯磺酸艾多沙班⽚",
+    "brandName": "⾥先安",
+    "manufacturer": "第⼀三共(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "甲钴胺注射液",
+    "brandName": "弥可保",
+    "manufacturer": "卫材(⽇本)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "J",
+    "name": "甲钴胺⽚",
+    "brandName": "弥可保",
+    "manufacturer": "卫材(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "甲钴胺⽚",
+    "brandName": "弥可保",
+    "manufacturer": "卫材(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "甲钴胺胶囊",
+    "brandName": "泛敏补",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "J",
+    "name": "精氨酸培哚普利⽚",
+    "brandName": "雅施达",
+    "manufacturer": "施维雅(法国)",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "精氨酸布洛芬⽚",
+    "brandName": "司百得",
+    "manufacturer": "赞邦",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "精氨酸布洛芬颗粒",
+    "brandName": "司百得",
+    "manufacturer": "赞邦",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "精蛋⽩⽣物合成⼈胰岛素注射液",
+    "brandName": "诺和灵",
+    "manufacturer": "诺和诺德(丹麦)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "J",
+    "name": "精蛋⽩锌重组⼈胰岛素注射液",
+    "brandName": "",
+    "manufacturer": "礼来(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "J",
+    "name": "精蛋⽩锌重组⼈胰岛素混合注射",
+    "brandName": "",
+    "manufacturer": "礼来(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "J",
+    "name": "精蛋⽩锌重组赖脯胰岛素混合注射液",
+    "brandName": "25R",
+    "manufacturer": "礼来(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "J",
+    "name": "精蛋⽩锌重组赖脯胰岛素混合注射液",
+    "brandName": "50R",
+    "manufacturer": "礼来(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "J",
+    "name": "结合雌激素⽚",
+    "brandName": "",
+    "manufacturer": "爱尔兰惠⽒制药Wye",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "结合雌激素软膏",
+    "brandName": "",
+    "manufacturer": "加拿⼤惠⽒-艾尔斯特",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "J",
+    "name": "结构脂肪乳注射液",
+    "brandName": "C6-24",
+    "manufacturer": "费森尤斯(德国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "J",
+    "name": "聚⼄⼆醇4000散",
+    "brandName": "福松",
+    "manufacturer": "益普⽣(法国)",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "聚⼄⼆醇⼲扰素α-2a注射液",
+    "brandName": "派罗欣",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "J",
+    "name": "聚⼄⼆醇滴眼液",
+    "brandName": "思然",
+    "manufacturer": "",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "J",
+    "name": "聚⼄⼆醇钠钾散",
+    "brandName": "默维可",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "聚⼄烯醇滴眼液",
+    "brandName": "艾明可",
+    "manufacturer": "",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "J",
+    "name": "聚多卡醇注射液",
+    "brandName": "安束喜",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "J",
+    "name": "聚甲酚磺醛溶液",
+    "brandName": "",
+    "manufacturer": "德国Nycomed",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "聚甲酚磺醛溶液",
+    "brandName": "爱宝疗",
+    "manufacturer": "武⽥(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "聚甲酚磺醛阴道栓",
+    "brandName": "",
+    "manufacturer": "德国Nycomed",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "聚苯⼄烯磺酸钙散剂",
+    "brandName": "可利美特",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "酒⽯酸伐尼克兰⽚",
+    "brandName": "",
+    "manufacturer": "德国 Heinric",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "酒⽯酸伐尼克兰⽚",
+    "brandName": "畅沛",
+    "manufacturer": "辉瑞(美国)",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "酒⽯酸唑吡坦⽚",
+    "brandName": "",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "酒⽯酸唑吡坦⽚",
+    "brandName": "思诺思",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "酒⽯酸溴莫尼定滴眼液",
+    "brandName": "",
+    "manufacturer": "爱尔兰Allerga",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "J",
+    "name": "酒⽯酸溴莫尼定滴眼液",
+    "brandName": "阿法根",
+    "manufacturer": "艾伯维(美国)",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "J",
+    "name": "酒⽯酸美托洛尔⽚",
+    "brandName": "倍他乐克",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "酒⽯酸西尼必利⽚",
+    "brandName": "希笛尼",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "J",
+    "name": "酒⽯酸长春瑞滨注射液",
+    "brandName": "诺维本",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "K",
+    "name": "克唑替尼胶囊",
+    "brandName": "赛可瑞",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "K",
+    "name": "克拉霉素⼲混悬剂",
+    "brandName": "",
+    "manufacturer": "意⼤利Abbott",
+    "tags": [
+      "混悬剂"
+    ]
+  },
+  {
+    "letter": "K",
+    "name": "克拉霉素⼲混悬剂",
+    "brandName": "克拉仙",
+    "manufacturer": "雅培(美国)",
+    "tags": [
+      "混悬剂"
+    ]
+  },
+  {
+    "letter": "K",
+    "name": "克拉霉素⽚",
+    "brandName": "",
+    "manufacturer": "雅培(美国)",
+    "tags": []
+  },
+  {
+    "letter": "K",
+    "name": "克拉霉素⽚",
+    "brandName": "克拉仙",
+    "manufacturer": "雅培(美国)",
+    "tags": []
+  },
+  {
+    "letter": "K",
+    "name": "克拉霉素缓释⽚",
+    "brandName": "克拉仙",
+    "manufacturer": "雅培(美国)",
+    "tags": []
+  },
+  {
+    "letter": "K",
+    "name": "克⽴硼罗软膏",
+    "brandName": "舒坦明",
+    "manufacturer": "",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "K",
+    "name": "克霉唑阴道⽚",
+    "brandName": "",
+    "manufacturer": "德国Bayer He",
+    "tags": []
+  },
+  {
+    "letter": "K",
+    "name": "克霉唑阴道⽚",
+    "brandName": "凯妮汀",
+    "manufacturer": "拜⽿(德国)",
+    "tags": []
+  },
+  {
+    "letter": "K",
+    "name": "克霉唑阴道⽚",
+    "brandName": "重复项?",
+    "manufacturer": "拜⽿(德国)",
+    "tags": []
+  },
+  {
+    "letter": "K",
+    "name": "卡前列素氨丁三醇注射液",
+    "brandName": "欣母沛",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "K",
+    "name": "卡培他滨⽚",
+    "brandName": "",
+    "manufacturer": "罗⽒(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "K",
+    "name": "卡培他滨⽚",
+    "brandName": "希罗达",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "K",
+    "name": "卡左双多巴控释⽚",
+    "brandName": "",
+    "manufacturer": "默沙东(美国)",
+    "tags": []
+  },
+  {
+    "letter": "K",
+    "name": "卡左双多巴缓释⽚",
+    "brandName": "息宁",
+    "manufacturer": "欧加隆(美国)",
+    "tags": []
+  },
+  {
+    "letter": "K",
+    "name": "卡托普利⽚",
+    "brandName": "开博通",
+    "manufacturer": "BMS(美国)",
+    "tags": []
+  },
+  {
+    "letter": "K",
+    "name": "卡替拉韦注射液",
+    "brandName": "万凯锐",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "K",
+    "name": "卡替拉韦钠⽚",
+    "brandName": "万凯锐",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "K",
+    "name": "卡格列净⽚",
+    "brandName": "怡可安",
+    "manufacturer": "强⽣(美国)",
+    "tags": []
+  },
+  {
+    "letter": "K",
+    "name": "卡泊三醇倍他⽶松凝胶",
+    "brandName": "Xamiol",
+    "manufacturer": "",
+    "tags": [
+      "凝胶"
+    ]
+  },
+  {
+    "letter": "K",
+    "name": "卡泊三醇倍他⽶松软膏",
+    "brandName": "得肤宝",
+    "manufacturer": "利奥(丹麦)",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "K",
+    "name": "卡泊三醇搽剂",
+    "brandName": "",
+    "manufacturer": "利奥(丹麦)",
+    "tags": []
+  },
+  {
+    "letter": "K",
+    "name": "卡泊三醇搽剂",
+    "brandName": "达⼒⼠",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "K",
+    "name": "卡泊三醇软膏",
+    "brandName": "",
+    "manufacturer": "爱尔兰Leo Lab",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "K",
+    "name": "卡泊三醇软膏",
+    "brandName": "达⼒⼠",
+    "manufacturer": "利奥(丹麦)",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "K",
+    "name": "卡波姆滴眼液",
+    "brandName": "唯地息",
+    "manufacturer": "",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "K",
+    "name": "卡波姆眼⽤凝胶",
+    "brandName": "⽴宝舒",
+    "manufacturer": "",
+    "tags": [
+      "凝胶"
+    ]
+  },
+  {
+    "letter": "K",
+    "name": "卡铂注射液",
+    "brandName": "伯尔定",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "K",
+    "name": "卡马西平⽚",
+    "brandName": "",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "K",
+    "name": "卡马西平⽚",
+    "brandName": "得理多",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "K",
+    "name": "⼝服乳杆菌LB散",
+    "brandName": "乐托尔",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "K",
+    "name": "⼝服补液盐溶液",
+    "brandName": "延⼒",
+    "manufacturer": "强⽣(美国)",
+    "tags": []
+  },
+  {
+    "letter": "K",
+    "name": "可伐利单抗注射液",
+    "brandName": "派圣凯",
+    "manufacturer": "罗⽒(瑞⼠)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "K",
+    "name": "坎地沙坦西酯⽚",
+    "brandName": "",
+    "manufacturer": "武⽥(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "K",
+    "name": "坎地沙坦酯⽚",
+    "brandName": "",
+    "manufacturer": "重庆圣华曦",
+    "tags": []
+  },
+  {
+    "letter": "K",
+    "name": "坎地沙坦酯⽚",
+    "brandName": "必洛斯",
+    "manufacturer": "武⽥(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "K",
+    "name": "抗⼈T细胞免疫球蛋⽩",
+    "brandName": "Grafalon",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "K",
+    "name": "糠酸氟替卡松维兰特罗吸⼊粉雾剂",
+    "brandName": "II",
+    "manufacturer": "GSK(英国)",
+    "tags": []
+  },
+  {
+    "letter": "K",
+    "name": "糠酸氟替卡松⿐⽤喷雾剂",
+    "brandName": "⽂适",
+    "manufacturer": "GSK(英国)",
+    "tags": []
+  },
+  {
+    "letter": "K",
+    "name": "糠酸莫⽶松乳膏",
+    "brandName": "",
+    "manufacturer": "上海先灵葆雅制药",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "K",
+    "name": "糠酸莫⽶松乳膏",
+    "brandName": "艾洛松",
+    "manufacturer": "拜⽿(德国)",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "K",
+    "name": "糠酸莫⽶松⿐喷雾剂",
+    "brandName": "",
+    "manufacturer": "⽐利时先灵葆雅",
+    "tags": []
+  },
+  {
+    "letter": "K",
+    "name": "糠酸莫⽶松⿐喷雾剂",
+    "brandName": "内舒拿",
+    "manufacturer": "默沙东(美国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "L-⾕氨酰胺呱仑酸钠颗粒",
+    "brandName": "麦滋林",
+    "manufacturer": "寿制药株式会社",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "仑卡奈单抗注射液",
+    "brandName": "乐意保",
+    "manufacturer": "卫材(⽇本)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "兰索拉唑⼝崩⽚",
+    "brandName": "",
+    "manufacturer": "武⽥(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "兰索拉唑⼝崩⽚",
+    "brandName": "普托平",
+    "manufacturer": "武⽥(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "兰索拉唑肠溶胶囊",
+    "brandName": "",
+    "manufacturer": "武⽥(⽇本)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "兰索拉唑肠溶胶囊",
+    "brandName": "达克普隆",
+    "manufacturer": "武⽥(⽇本)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "利丙双卡因乳膏",
+    "brandName": "恩纳",
+    "manufacturer": "",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "利伐沙班⽚",
+    "brandName": "",
+    "manufacturer": "德国Bayer He",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "利伐沙班⽚",
+    "brandName": "拜瑞妥",
+    "manufacturer": "拜⽿(德国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "利匹韦林⽚",
+    "brandName": "恩临",
+    "manufacturer": "强⽣(美国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "利司扑兰⼝服溶液⽤散",
+    "brandName": "艾满欣",
+    "manufacturer": "罗⽒(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "利司那肽注射液",
+    "brandName": "利时敏",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "利培酮⼝服液",
+    "brandName": "",
+    "manufacturer": "杨森(美国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "利培酮⼝服液",
+    "brandName": "维思通",
+    "manufacturer": "强⽣(美国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "利培酮⽚",
+    "brandName": "",
+    "manufacturer": "杨森(美国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "利培酮⽚",
+    "brandName": "维思通",
+    "manufacturer": "强⽣(美国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "利培酮胶囊",
+    "brandName": "令泽舒",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "利奈唑胺⼲混悬剂",
+    "brandName": "斯沃",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "混悬剂"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "利奈唑胺⽚",
+    "brandName": "",
+    "manufacturer": "美国Pfizer P(PPLLC)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "利奈唑胺⽚",
+    "brandName": "斯沃",
+    "manufacturer": "辉瑞(美国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "利奈唑胺葡萄糖注射液",
+    "brandName": "斯沃",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "利奥西呱⽚",
+    "brandName": "安古奥",
+    "manufacturer": "拜⽿(德国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "利妥昔单抗注射液",
+    "brandName": "美罗华",
+    "manufacturer": "罗⽒(瑞⼠)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "利托那韦⽚",
+    "brandName": "克⼒芝",
+    "manufacturer": "艾伯维(美国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "利拉鲁肽注射液",
+    "brandName": "诺和⼒",
+    "manufacturer": "诺和诺德(丹麦)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "利斯的明透⽪贴剂",
+    "brandName": "艾斯能",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": [
+      "贴剂"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "利格列汀⼆甲双胍⽚",
+    "brandName": "II",
+    "manufacturer": "勃林格(德国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "利格列汀⽚",
+    "brandName": "欧唐宁",
+    "manufacturer": "勃林格(德国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "利福昔明⽚",
+    "brandName": "",
+    "manufacturer": "意⼤利阿尔法韦⼠曼制",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "利福昔明⽚",
+    "brandName": "昔服申",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "利鲁唑⽚",
+    "brandName": "⼒如太",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "劳拉西泮⽚",
+    "brandName": "罗拉",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "卤⽶松/三氯⽣乳膏",
+    "brandName": "新适确得",
+    "manufacturer": "",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "卤⽶松乳膏",
+    "brandName": "澳能",
+    "manufacturer": "澳美(中国⾹港)",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "卵磷脂络合碘⽚",
+    "brandName": "沃丽汀",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "拉坦前列素滴眼液",
+    "brandName": "",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "拉坦前列素滴眼液",
+    "brandName": "适利达",
+    "manufacturer": "辉致(美国)",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "拉坦噻吗滴眼液",
+    "brandName": "",
+    "manufacturer": "⽐利时Pfizer",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "拉替拉韦钾⽚",
+    "brandName": "艾⽣特",
+    "manufacturer": "默沙东(美国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "拉⽶夫定/齐多夫定⽚",
+    "brandName": "",
+    "manufacturer": "GSK(英国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "拉⽶夫定多替拉韦⽚",
+    "brandName": "多伟托",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "拉⽶夫定⽚",
+    "brandName": "",
+    "manufacturer": "GSK(英国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "拉⽶夫定⽚",
+    "brandName": "贺普丁",
+    "manufacturer": "GSK(英国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "拉考沙胺⼝服溶液",
+    "brandName": "维派特",
+    "manufacturer": "优时⽐(⽐利时)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "拉考沙胺注射液",
+    "brandName": "维派特",
+    "manufacturer": "优时⽐(⽐利时)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "拉考沙胺⽚",
+    "brandName": "维派特",
+    "manufacturer": "优时⽐(⽐利时)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "拉莫三嗪⽚",
+    "brandName": "",
+    "manufacturer": "GSK(英国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "拉莫三嗪⽚",
+    "brandName": "利必通",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "拉西地平⽚",
+    "brandName": "",
+    "manufacturer": "GSK(英国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "拉西地平⽚",
+    "brandName": "乐息平",
+    "manufacturer": "GSK(英国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "拉那利尤单抗注射液",
+    "brandName": "达泽优",
+    "manufacturer": "武⽥(⽇本)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "来曲唑⽚",
+    "brandName": "",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "来曲唑⽚",
+    "brandName": "弗隆",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "氯马斯汀⼝服溶液",
+    "brandName": "迈普信",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "洛匹那韦/利托那韦⼝服溶液",
+    "brandName": "克⼒芝",
+    "manufacturer": "艾伯维(美国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "洛匹那韦利托那韦⽚",
+    "brandName": "克⼒芝",
+    "manufacturer": "艾伯维(美国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "洛度沙胺滴眼液",
+    "brandName": "",
+    "manufacturer": "爱尔康(美国)",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "洛拉替尼⽚",
+    "brandName": "博瑞纳",
+    "manufacturer": "辉瑞(美国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "洛索洛芬钠⽚",
+    "brandName": "",
+    "manufacturer": "第⼀三共(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "洛索洛芬钠⽚",
+    "brandName": "乐松",
+    "manufacturer": "第⼀三共(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "洛索洛芬钠贴剂",
+    "brandName": "乐松",
+    "manufacturer": "第⼀三共(⽇本)",
+    "tags": [
+      "贴剂"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "硫唑嘌呤⽚",
+    "brandName": "",
+    "manufacturer": "德国Heumann",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "硫酸异帕⽶星注射液",
+    "brandName": "依克沙",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "硫酸拉罗替尼胶囊",
+    "brandName": "维泰凯",
+    "manufacturer": "拜⽿(德国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "硫酸氢氯吡格雷⽚",
+    "brandName": "",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "硫酸氢氯吡格雷⽚",
+    "brandName": "波⽴维",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "硫酸氨基葡萄糖散",
+    "brandName": "",
+    "manufacturer": "爱尔兰罗达药⼚(Rottapharm Ltd)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "硫酸氨基葡萄糖胶囊",
+    "brandName": "",
+    "manufacturer": "爱尔兰罗达药⼚(Rottapharm Ltd)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "硫酸氨基葡萄糖胶囊",
+    "brandName": "维固⼒",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "硫酸沙丁胺醇吸⼊⽓雾剂",
+    "brandName": "",
+    "manufacturer": "GSK(英国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "硫酸沙丁胺醇吸⼊⽓雾剂",
+    "brandName": "万托林",
+    "manufacturer": "GSK(英国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "硫酸沙司美替尼胶囊",
+    "brandName": "科赛优",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "硫酸特布他林⽚",
+    "brandName": "",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "硫酸特布他林⽚",
+    "brandName": "博利康尼",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "硫酸特布他林雾化吸⼊⽤溶液",
+    "brandName": "博利康尼",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "硫酸特布他林雾化溶液",
+    "brandName": "",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "硫酸瑞美吉泮⼝崩⽚",
+    "brandName": "乐泰可",
+    "manufacturer": "辉瑞(美国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "硫酸羟氯喹⽚",
+    "brandName": "",
+    "manufacturer": "英国Sanofi-S",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "硫酸羟氯喹⽚",
+    "brandName": "Plaquenil",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "硫酸艾沙康唑胶囊",
+    "brandName": "康新博",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "硫酸阿巴卡韦⼝服溶液",
+    "brandName": "赛进",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "硫酸阿巴卡韦⽚",
+    "brandName": "赛进",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "磷酸奥司他韦⽚",
+    "brandName": "适锐欧",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "磷酸奥司他韦胶囊",
+    "brandName": "",
+    "manufacturer": "罗⽒(瑞⼠)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "磷酸奥司他韦胶囊",
+    "brandName": "达菲",
+    "manufacturer": "罗⽒(瑞⼠)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "磷酸索⽴德吉胶囊",
+    "brandName": "美⽢朵",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "磷酸芦可替尼⽚",
+    "brandName": "捷格卫",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "磷酸西格列汀⽚",
+    "brandName": "",
+    "manufacturer": "默沙东(美国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "磷酸西格列汀⽚",
+    "brandName": "捷诺维",
+    "manufacturer": "默沙东(美国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "磷酸钠盐灌肠液",
+    "brandName": "辉⼒",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "磷酸铝凝胶",
+    "brandName": "洁维乐",
+    "manufacturer": "",
+    "tags": [
+      "凝胶"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "磷酸雌莫司汀胶囊",
+    "brandName": "",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "磷酸雌莫司汀胶囊",
+    "brandName": "艾去适",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "磷霉素氨丁三醇颗粒",
+    "brandName": "",
+    "manufacturer": "瑞⼠Zambon S",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "磷霉素氨丁三醇颗粒",
+    "brandName": "美乐⼒",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "罗培⼲扰素α-2b注射液",
+    "brandName": "百斯说明",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "罗库溴铵注射液",
+    "brandName": "爱可松",
+    "manufacturer": "默沙东(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "罗替⾼汀贴⽚",
+    "brandName": "优普洛",
+    "manufacturer": "优时⽐(⽐利时)",
+    "tags": [
+      "贴剂"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "罗格列酮钠⽚",
+    "brandName": "",
+    "manufacturer": "太极重庆涪陵",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "罗红霉素⽚",
+    "brandName": "",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "罗红霉素⽚",
+    "brandName": "罗⼒得",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "罗西维林⽚",
+    "brandName": "",
+    "manufacturer": "意⼤利A. Mena",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "罗西维林⽚",
+    "brandName": "⾥拉通",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "联苯苄唑乳膏",
+    "brandName": "",
+    "manufacturer": "拜⽿(德国)",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "联苯苄唑乳膏",
+    "brandName": "美克",
+    "manufacturer": "拜⽿(德国)",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "芦曲泊帕⽚",
+    "brandName": "穆可达",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "赖脯胰岛素注射液",
+    "brandName": "优速乐",
+    "manufacturer": "礼来(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "赖诺普利⽚",
+    "brandName": "",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "酪酸梭菌活菌散",
+    "brandName": "⽶雅",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "酪酸梭菌活菌⽚",
+    "brandName": "⽶雅",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "酪酸梭菌肠球菌三联活菌散",
+    "brandName": "百赐益",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "酪酸梭菌肠球菌三联活菌⽚",
+    "brandName": "适怡",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "铝 碳酸镁⽚",
+    "brandName": "",
+    "manufacturer": "拜⽿(德国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "铝碳酸镁咀嚼⽚",
+    "brandName": "达喜",
+    "manufacturer": "拜⽿(德国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "铝镁混悬液",
+    "brandName": "II",
+    "manufacturer": "",
+    "tags": [
+      "混悬剂"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "雷珠单抗注射液",
+    "brandName": "诺适得",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "雷⽶普利⽚",
+    "brandName": "",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "雷⽶普利⽚",
+    "brandName": "瑞泰",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "雷莫西尤单抗注射液",
+    "brandName": "希冉择",
+    "manufacturer": "礼来(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "L",
+    "name": "雷贝拉唑钠肠溶⽚",
+    "brandName": "",
+    "manufacturer": "卫材(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "L",
+    "name": "雷贝拉唑钠肠溶⽚",
+    "brandName": "波利特",
+    "manufacturer": "卫材(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "吗 替麦考酚酯胶囊",
+    "brandName": "",
+    "manufacturer": "罗⽒(瑞⼠)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "M",
+    "name": "吗啉硝唑氯化钠注射液",
+    "brandName": "迈灵达",
+    "manufacturer": "江苏豪森",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "M",
+    "name": "吗替麦考酚酯⽚",
+    "brandName": "骁悉",
+    "manufacturer": "罗⽒(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "吗替麦考酚酯胶囊",
+    "brandName": "骁悉",
+    "manufacturer": "罗⽒(瑞⼠)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "M",
+    "name": "咪唑斯汀缓释⽚",
+    "brandName": "⽫治林",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "咪唑⽴宾⽚",
+    "brandName": "布莱迪宁",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "咪喹莫特乳膏",
+    "brandName": "艾达乐",
+    "manufacturer": "",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "M",
+    "name": "孟鲁司特钠咀嚼⽚",
+    "brandName": "",
+    "manufacturer": "默沙东(美国)",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "孟鲁司特钠咀嚼⽚",
+    "brandName": "顺尔宁",
+    "manufacturer": "欧加隆(美国)",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "孟鲁司特钠⽚",
+    "brandName": "",
+    "manufacturer": "默沙东(美国)",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "孟鲁司特钠⽚",
+    "brandName": "顺尔宁",
+    "manufacturer": "欧加隆(美国)",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "孟鲁司特钠颗粒",
+    "brandName": "",
+    "manufacturer": "默沙东(美国)",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "孟鲁司特钠颗粒",
+    "brandName": "顺尔宁",
+    "manufacturer": "欧加隆(美国)",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "玛伐凯泰胶囊",
+    "brandName": "迈凡妥",
+    "manufacturer": "BMS(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "M",
+    "name": "玛巴洛沙韦⼲混悬剂",
+    "brandName": "速福达",
+    "manufacturer": "罗⽒(瑞⼠)",
+    "tags": [
+      "混悬剂"
+    ]
+  },
+  {
+    "letter": "M",
+    "name": "玛巴洛沙韦⽚",
+    "brandName": "速福达",
+    "manufacturer": "罗⽒(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "⽶库氯铵注射液",
+    "brandName": "美维松",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "M",
+    "name": "⽶拉贝隆缓释⽚",
+    "brandName": "贝坦利",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "⽶曲菌胰酶⽚",
+    "brandName": "慷彼申",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "⽶格列奈钙⽚",
+    "brandName": "快如妥",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "⽶氮平⽚",
+    "brandName": "",
+    "manufacturer": "荷兰欧加农N.V.O",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "⽶氮平⽚",
+    "brandName": "瑞美隆",
+    "manufacturer": "欧加隆(美国)",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "⽶索前列醇⽚",
+    "brandName": "",
+    "manufacturer": "英国NPIL PHA(UK)LJMITED)",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "⽶索前列醇⽚",
+    "brandName": "喜克溃",
+    "manufacturer": "辉瑞(美国)",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "⽶⾮司酮⽚",
+    "brandName": "司⽶安",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "美司钠注射液",
+    "brandName": "UROMITEXAN",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "M",
+    "name": "美敏伪⿇⼝服溶液",
+    "brandName": "惠菲宁",
+    "manufacturer": "赫⼒昂(英国)",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "美沙拉嗪栓",
+    "brandName": "莎尔福",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "美沙拉嗪灌肠液",
+    "brandName": "莎尔福",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "美沙拉嗪缓释⽚",
+    "brandName": "颇得斯安",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "美沙拉嗪肠溶⽚",
+    "brandName": "莎尔福",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "美泊利珠单抗注射液",
+    "brandName": "新可来",
+    "manufacturer": "GSK(英国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "M",
+    "name": "美法仑⽚",
+    "brandName": "爱克兰",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "美洛昔康栓",
+    "brandName": "",
+    "manufacturer": "意⼤利Boehrin",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "美洛昔康注射液",
+    "brandName": "莫⽐可",
+    "manufacturer": "勃林格(德国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "M",
+    "name": "美洛昔康⽚",
+    "brandName": "",
+    "manufacturer": "勃林格(德国)",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "美洛昔康⽚",
+    "brandName": "莫⽐可",
+    "manufacturer": "勃林格(德国)",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "美芬那敏铵糖浆",
+    "brandName": "尔可芬",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "美阿沙坦钾⽚",
+    "brandName": "易达⽐",
+    "manufacturer": "武⽥(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "莫匹罗星软膏",
+    "brandName": "",
+    "manufacturer": "中美天津史克制药",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "M",
+    "name": "莫匹罗星软膏",
+    "brandName": "百多邦",
+    "manufacturer": "中美史克(英国)",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "M",
+    "name": "莫妥珠单抗注射液",
+    "brandName": "皓罗华",
+    "manufacturer": "罗⽒(瑞⼠)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "M",
+    "name": "莫格利珠单抗注射液",
+    "brandName": "惠尔⾦",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "M",
+    "name": "莫诺拉韦胶囊",
+    "brandName": "利卓瑞",
+    "manufacturer": "默沙东(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "M",
+    "name": "蒙脱⽯散",
+    "brandName": "思密达",
+    "manufacturer": "益普⽣(法国)",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "蒙脱⽯散",
+    "brandName": "思密达",
+    "manufacturer": "益普⽣(法国)",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "螨变应原注射液",
+    "brandName": "阿罗格",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "M",
+    "name": "门 冬氨酸钾镁⽚",
+    "brandName": "",
+    "manufacturer": "匈⽛利吉瑞⼤药⼚",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "门冬氨酸钾镁注射液",
+    "brandName": "潘南⾦",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "M",
+    "name": "门冬氨酸钾镁⽚",
+    "brandName": "潘南⾦",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "门冬氨酸鸟氨酸注射液",
+    "brandName": "雅博司",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "M",
+    "name": "门冬胰岛素 30 注射液",
+    "brandName": "诺和锐",
+    "manufacturer": "诺和诺德(丹麦)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "M",
+    "name": "门冬胰岛素 50 注射液",
+    "brandName": "诺和锐",
+    "manufacturer": "诺和诺德(丹麦)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "M",
+    "name": "门冬胰岛素注射液",
+    "brandName": "诺和锐",
+    "manufacturer": "诺和诺德(丹麦)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "M",
+    "name": "马吉妥昔单抗注射液",
+    "brandName": "麦⽢乐",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "M",
+    "name": "马昔腾坦⽚",
+    "brandName": "傲朴舒",
+    "manufacturer": "爱可泰隆",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "马来酸伊索拉定⽚",
+    "brandName": "盖世龙",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "马来酸依那普利⽚",
+    "brandName": "",
+    "manufacturer": "澳⼤利亚Merck",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "马来酸依那普利⽚",
+    "brandName": "悦宁定",
+    "manufacturer": "欧加隆(美国)",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "马来酸吡略替尼⽚",
+    "brandName": "艾瑞妮",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "马来酸咪达唑仑⽚",
+    "brandName": "多美康",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "马来酸多潘⽴酮⽚",
+    "brandName": "益动",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "马来酸奈拉替尼⽚",
+    "brandName": "贺辉安",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "马来酸左旋氨氯地平⽚",
+    "brandName": "",
+    "manufacturer": "⽯药欧意",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "马来酸氟伏沙明⽚",
+    "brandName": "",
+    "manufacturer": "荷兰苏威制药",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "马来酸氟伏沙明⽚",
+    "brandName": "兰释",
+    "manufacturer": "雅培(美国)",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "马来酸茚达特罗吸⼊粉雾剂",
+    "brandName": "昂润",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "马来酸阿伐曲泊帕⽚",
+    "brandName": "苏可欣",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "马来酸阿法替尼⽚",
+    "brandName": "吉泰瑞",
+    "manufacturer": "勃林格(德国)",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "马来酸⾮尼拉敏盐酸萘甲唑林滴眼液",
+    "brandName": "那素达",
+    "manufacturer": "",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "M",
+    "name": "马栗种⼦提取物⽚",
+    "brandName": "威利坦",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "M",
+    "name": "麦格司他胶囊",
+    "brandName": "泽维可",
+    "manufacturer": "强⽣(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "M",
+    "name": "麦考酚钠肠溶⽚",
+    "brandName": "⽶芙",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "N",
+    "name": "奈安匹坦帕洛诺司琼胶囊",
+    "brandName": "奥康泽",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "N",
+    "name": "奈玛特韦⽚/利托那韦⽚组合包装",
+    "brandName": "瑞派乐",
+    "manufacturer": "辉瑞(美国)",
+    "tags": []
+  },
+  {
+    "letter": "N",
+    "name": "尼古丁咀嚼胶",
+    "brandName": "⼒克雷",
+    "manufacturer": "强⽣(美国)",
+    "tags": []
+  },
+  {
+    "letter": "N",
+    "name": "尼可地尔⽚",
+    "brandName": "",
+    "manufacturer": "⽇本中外制药株式会社",
+    "tags": []
+  },
+  {
+    "letter": "N",
+    "name": "尼可地尔⽚",
+    "brandName": "喜格迈",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "N",
+    "name": "尼塞韦单抗注射液",
+    "brandName": "乐唯初",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "N",
+    "name": "尼洛替尼胶囊",
+    "brandName": "",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "N",
+    "name": "尼洛替尼胶囊",
+    "brandName": "达希纳",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "P",
+    "name": "匹多莫德⼝服液",
+    "brandName": "",
+    "manufacturer": "意⼤利多帕DOPPE",
+    "tags": []
+  },
+  {
+    "letter": "P",
+    "name": "匹安布替尼⽚",
+    "brandName": "捷帕⼒",
+    "manufacturer": "礼来(美国)",
+    "tags": []
+  },
+  {
+    "letter": "P",
+    "name": "匹维溴铵⽚",
+    "brandName": "",
+    "manufacturer": "法国苏威(Solvay pharma)",
+    "tags": []
+  },
+  {
+    "letter": "P",
+    "name": "匹维溴铵⽚",
+    "brandName": "得舒特",
+    "manufacturer": "雅培(美国)",
+    "tags": []
+  },
+  {
+    "letter": "P",
+    "name": "匹隆帕奈⽚",
+    "brandName": "维全特",
+    "manufacturer": "卫材(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "P",
+    "name": "哌柏西利胶囊",
+    "brandName": "爱博新",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "P",
+    "name": "培哚普利叔丁胺⽚",
+    "brandName": "雅施达",
+    "manufacturer": "施维雅(法国)",
+    "tags": []
+  },
+  {
+    "letter": "P",
+    "name": "培哚普利吲达帕胺⽚",
+    "brandName": "百普乐",
+    "manufacturer": "施维雅(法国)",
+    "tags": []
+  },
+  {
+    "letter": "P",
+    "name": "培哚普利氨氯地平⽚",
+    "brandName": "I",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "P",
+    "name": "培哚普利氨氯地平⽚",
+    "brandName": "II",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "P",
+    "name": "培哚普利氨氯地平⽚",
+    "brandName": "III",
+    "manufacturer": "施维雅(法国)",
+    "tags": []
+  },
+  {
+    "letter": "P",
+    "name": "培哚普利⽚",
+    "brandName": "",
+    "manufacturer": "施维雅(法国)",
+    "tags": []
+  },
+  {
+    "letter": "P",
+    "name": "培塞利珠单抗注射液",
+    "brandName": "希敏佳",
+    "manufacturer": "优时⽐(⽐利时)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "P",
+    "name": "帕利哌酮缓释⽚",
+    "brandName": "",
+    "manufacturer": "美国ALZA Cor",
+    "tags": []
+  },
+  {
+    "letter": "P",
+    "name": "帕利哌酮缓释⽚",
+    "brandName": "芮达",
+    "manufacturer": "强⽣(美国)",
+    "tags": []
+  },
+  {
+    "letter": "P",
+    "name": "帕博利珠单抗注射液",
+    "brandName": "可瑞达",
+    "manufacturer": "默克(德国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "P",
+    "name": "帕司烟肼⽚",
+    "brandName": "",
+    "manufacturer": "瑞⼠Geistlic",
+    "tags": []
+  },
+  {
+    "letter": "P",
+    "name": "帕妥珠单抗曲妥珠单抗注射液",
+    "brandName": "⽪下注射",
+    "manufacturer": "罗⽒(瑞⼠)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "P",
+    "name": "帕妥珠单抗注射液",
+    "brandName": "帕捷特",
+    "manufacturer": "罗⽒(瑞⼠)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "P",
+    "name": "帕⽴⾻化醇注射液",
+    "brandName": "胜普乐",
+    "manufacturer": "艾伯维(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "P",
+    "name": "普乐沙福注射液",
+    "brandName": "释倍灵",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "P",
+    "name": "普伐他汀钠⽚",
+    "brandName": "",
+    "manufacturer": "BMS(美国)",
+    "tags": []
+  },
+  {
+    "letter": "P",
+    "name": "普伐他汀钠⽚",
+    "brandName": "美百乐镇",
+    "manufacturer": "第⼀三共(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "P",
+    "name": "普拉替尼胶囊",
+    "brandName": "普吉华",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "P",
+    "name": "普拉洛芬滴眼液",
+    "brandName": "普南扑灵",
+    "manufacturer": "",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "P",
+    "name": "普瑞巴林胶囊",
+    "brandName": "乐瑞卡",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "P",
+    "name": "普罗雌烯乳膏",
+    "brandName": "",
+    "manufacturer": "摩纳哥Laborat",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "P",
+    "name": "普罗雌烯阴道胶囊",
+    "brandName": "",
+    "manufacturer": "摩纳哥Laborat",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "P",
+    "name": "普贝地尔缓释⽚",
+    "brandName": "泰舒达",
+    "manufacturer": "施维雅(法国)",
+    "tags": []
+  },
+  {
+    "letter": "P",
+    "name": "泮托拉唑钠肠溶⽚",
+    "brandName": "潘妥洛克",
+    "manufacturer": "武⽥(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "P",
+    "name": "⽪炎诊断贴剂",
+    "brandName": "24",
+    "manufacturer": "",
+    "tags": [
+      "贴剂"
+    ]
+  },
+  {
+    "letter": "P",
+    "name": "苹果酸奈诺沙星氯化钠注射液",
+    "brandName": "太捷信",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "P",
+    "name": "苹果酸奈诺沙星胶囊",
+    "brandName": "太捷信",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "P",
+    "name": "苹果酸舒尼替尼胶囊",
+    "brandName": "",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "P",
+    "name": "苹果酸舒尼替尼胶囊",
+    "brandName": "索坦",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Q",
+    "name": "七叶洋地黄双苷滴眼液",
+    "brandName": "施图伦",
+    "manufacturer": "",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "Q",
+    "name": "七叶皂苷钠⽚",
+    "brandName": "",
+    "manufacturer": "⼭东绿叶制药",
+    "tags": []
+  },
+  {
+    "letter": "Q",
+    "name": "去氧孕烯炔雌醇⽚",
+    "brandName": "",
+    "manufacturer": "荷兰欧加农N.V.O",
+    "tags": []
+  },
+  {
+    "letter": "Q",
+    "name": "去氧孕烯炔雌醇⽚",
+    "brandName": "妈富隆",
+    "manufacturer": "欧加隆(美国)",
+    "tags": []
+  },
+  {
+    "letter": "Q",
+    "name": "去铁酮⽚",
+    "brandName": "奥贝安可",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "Q",
+    "name": "屈螺酮炔雌醇⽚",
+    "brandName": "II",
+    "manufacturer": "拜⽿(德国)",
+    "tags": []
+  },
+  {
+    "letter": "Q",
+    "name": "屈螺酮炔雌醇⽚",
+    "brandName": "优思明",
+    "manufacturer": "拜⽿(德国)",
+    "tags": []
+  },
+  {
+    "letter": "Q",
+    "name": "曲伏前列素滴眼液",
+    "brandName": "苏为坦",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "Q",
+    "name": "曲伏噻吗滴眼液",
+    "brandName": "苏⼒坦",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "Q",
+    "name": "曲司氯铵⽚",
+    "brandName": "",
+    "manufacturer": "德国MADAUS G",
+    "tags": []
+  },
+  {
+    "letter": "Q",
+    "name": "曲安奈德⼝腔软膏",
+    "brandName": "宁之助",
+    "manufacturer": "澳美(中国⾹港)",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "Q",
+    "name": "曲安奈德益康唑乳膏",
+    "brandName": "",
+    "manufacturer": "杨森(美国)",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "Q",
+    "name": "曲安奈德益康唑乳膏",
+    "brandName": "派瑞松",
+    "manufacturer": "强⽣(美国)",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "Q",
+    "name": "曲美替尼⽚",
+    "brandName": "迈吉宁",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "Q",
+    "name": "氢溴酸伏硫西汀⽚",
+    "brandName": "⼼达悦",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "Q",
+    "name": "氢溴酸右美沙芬糖浆",
+    "brandName": "依⼒",
+    "manufacturer": "拜⽿(德国)",
+    "tags": []
+  },
+  {
+    "letter": "Q",
+    "name": "氢溴酸替格列汀⽚",
+    "brandName": "泰⾥安",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "Q",
+    "name": "氢溴酸电西普尼⽚",
+    "brandName": "施⽡福",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "Q",
+    "name": "氢溴酸西酞普兰⽚",
+    "brandName": "",
+    "manufacturer": "灵北(丹麦)",
+    "tags": []
+  },
+  {
+    "letter": "Q",
+    "name": "氢溴酸西酞普兰⽚",
+    "brandName": "喜普妙",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "Q",
+    "name": "炔 雌醇环丙孕酮⽚",
+    "brandName": "",
+    "manufacturer": "德国先灵Scheri",
+    "tags": []
+  },
+  {
+    "letter": "Q",
+    "name": "炔雌醇环丙孕酮⽚",
+    "brandName": "达英-35",
+    "manufacturer": "拜⽿(德国)",
+    "tags": []
+  },
+  {
+    "letter": "Q",
+    "name": "羟⼄基淀粉 130/0.4 电解质注射液",
+    "brandName": "万汶",
+    "manufacturer": "费森尤斯(德国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Q",
+    "name": "羟糖⽢滴眼液",
+    "brandName": "新泪然",
+    "manufacturer": "",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "Q",
+    "name": "羟苯磺酸钙胶囊",
+    "brandName": "",
+    "manufacturer": "奥地利依⽐威药品Eb",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Q",
+    "name": "羟苯磺酸钙胶囊",
+    "brandName": "导升明",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Q",
+    "name": "青霉素v钾⽚",
+    "brandName": "",
+    "manufacturer": "奥地利Sandoz",
+    "tags": []
+  },
+  {
+    "letter": "Q",
+    "name": "齐多夫定糖浆",
+    "brandName": "⽴妥威",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "R",
+    "name": "乳果糖⼝服溶液",
+    "brandName": "",
+    "manufacturer": "荷兰苏威制药",
+    "tags": []
+  },
+  {
+    "letter": "R",
+    "name": "乳果糖⼝服溶液",
+    "brandName": "杜密克",
+    "manufacturer": "雅培(美国)",
+    "tags": []
+  },
+  {
+    "letter": "R",
+    "name": "乳酸环丙沙星氯化钠注射液",
+    "brandName": "西普乐",
+    "manufacturer": "拜⽿(德国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "R",
+    "name": "⼈促卵泡激素δ注射液",
+    "brandName": "维可唯",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "R",
+    "name": "⼈促红素注射液",
+    "brandName": "利⾎宝",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "R",
+    "name": "⼈⽣长激素注射液",
+    "brandName": "诺泽",
+    "manufacturer": "诺和诺德(丹麦)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "R",
+    "name": "⼈胰岛素注射液",
+    "brandName": "诺和灵",
+    "manufacturer": "诺和诺德(丹麦)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "R",
+    "name": "⼈⾎⽩蛋⽩",
+    "brandName": "贝林",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "R",
+    "name": "瑞巴派特⽚",
+    "brandName": "",
+    "manufacturer": "⼤冢(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "R",
+    "name": "瑞巴派特⽚",
+    "brandName": "膜固思达",
+    "manufacturer": "⼤冢(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "R",
+    "name": "瑞⼽⾮尼⽚",
+    "brandName": "拜万龙",
+    "manufacturer": "拜⽿(德国)",
+    "tags": []
+  },
+  {
+    "letter": "R",
+    "name": "瑞格列奈⽚",
+    "brandName": "",
+    "manufacturer": "勃林格(德国)",
+    "tags": []
+  },
+  {
+    "letter": "R",
+    "name": "瑞格列奈⽚",
+    "brandName": "诺和龙",
+    "manufacturer": "诺和诺德(丹麦)",
+    "tags": []
+  },
+  {
+    "letter": "R",
+    "name": "瑞派替尼⽚",
+    "brandName": "擎乐",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "R",
+    "name": "瑞舒伐他汀依折麦布⽚",
+    "brandName": "I",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": []
+  },
+  {
+    "letter": "R",
+    "name": "瑞舒伐他汀钙⽚",
+    "brandName": "",
+    "manufacturer": "波多黎各IPR Ph",
+    "tags": []
+  },
+  {
+    "letter": "R",
+    "name": "瑞舒伐他汀钙⽚",
+    "brandName": "可定",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "R",
+    "name": "瑞舒伐他汀钙胶囊",
+    "brandName": "美凯乐",
+    "manufacturer": "BMS(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "S",
+    "name": "30/70 混合重组⼈胰岛素注射液",
+    "brandName": "诺和灵",
+    "manufacturer": "诺和诺德(丹麦)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "S",
+    "name": "三⼄醇胺乳膏",
+    "brandName": "⽐亚芬",
+    "manufacturer": "",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "S",
+    "name": "⼗⼀酸睾酮软胶囊",
+    "brandName": "",
+    "manufacturer": "法国Catalent",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "S",
+    "name": "双氯芬酸⼆⼄胺乳胶剂",
+    "brandName": "",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "S",
+    "name": "双氯芬酸⼆⼄胺乳胶剂",
+    "brandName": "扶他林",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "S",
+    "name": "双氯芬酸钠双释放肠溶胶囊",
+    "brandName": "戴芬",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "S",
+    "name": "双氯芬酸钠缓释⽚",
+    "brandName": "",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "S",
+    "name": "双氯芬酸钠缓释⽚",
+    "brandName": "IV",
+    "manufacturer": "⼭德⼠",
+    "tags": []
+  },
+  {
+    "letter": "S",
+    "name": "双氯芬酸钠缓释⽚",
+    "brandName": "扶他林",
+    "manufacturer": "中美史克(英国)",
+    "tags": []
+  },
+  {
+    "letter": "S",
+    "name": "双氯芬酸钠肠溶⽚",
+    "brandName": "",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "S",
+    "name": "双氯芬酸钠肠溶⽚",
+    "brandName": "扶他林",
+    "manufacturer": "中美史克(英国)",
+    "tags": []
+  },
+  {
+    "letter": "S",
+    "name": "双氯芬酸钾⽚",
+    "brandName": "",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "S",
+    "name": "双环醇⽚",
+    "brandName": "",
+    "manufacturer": "北京协和药⼚",
+    "tags": []
+  },
+  {
+    "letter": "S",
+    "name": "双醋瑞因胶囊",
+    "brandName": "安必丁",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "S",
+    "name": "司库奇尤单抗注射液",
+    "brandName": "可善挺",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "S",
+    "name": "司来帕格⽚",
+    "brandName": "优拓⽐",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "S",
+    "name": "司美格鲁肽注射液",
+    "brandName": "诺和泰",
+    "manufacturer": "诺和诺德(丹麦)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "S",
+    "name": "司美格鲁肽注射液",
+    "brandName": "诺和盈",
+    "manufacturer": "诺和诺德(丹麦)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "S",
+    "name": "司美格鲁肽⽚",
+    "brandName": "诺和忻",
+    "manufacturer": "诺和诺德(丹麦)",
+    "tags": []
+  },
+  {
+    "letter": "S",
+    "name": "噻托溴铵吸⼊粉雾剂",
+    "brandName": "思⼒华",
+    "manufacturer": "勃林格(德国)",
+    "tags": []
+  },
+  {
+    "letter": "S",
+    "name": "噻托溴铵奥达特罗吸⼊喷雾剂",
+    "brandName": "思合华",
+    "manufacturer": "勃林格(德国)",
+    "tags": []
+  },
+  {
+    "letter": "S",
+    "name": "四烯甲萘醌软胶囊",
+    "brandName": "固⼒康",
+    "manufacturer": "卫材(⽇本)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "S",
+    "name": "塞利尼索⽚",
+    "brandName": "希维奥",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "S",
+    "name": "塞奈吉明滴眼液",
+    "brandName": "欧适维",
+    "manufacturer": "",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "S",
+    "name": "塞来昔布胶囊",
+    "brandName": "",
+    "manufacturer": "美国Pfizer P",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "S",
+    "name": "塞来昔布胶囊",
+    "brandName": "西乐葆",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "S",
+    "name": "塞瑞替尼胶囊",
+    "brandName": "赞可达",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "S",
+    "name": "⽔飞蓟素胶囊",
+    "brandName": "利加隆",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "S",
+    "name": "沙 美特罗替卡松粉吸⼊剂",
+    "brandName": "",
+    "manufacturer": "GSK(英国)",
+    "tags": []
+  },
+  {
+    "letter": "S",
+    "name": "沙库巴曲缬沙坦钠⽚",
+    "brandName": "诺欣妥",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "S",
+    "name": "沙格列汀⼆甲双胍缓释⽚",
+    "brandName": "I",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "S",
+    "name": "沙格列汀⼆甲双胍缓释⽚",
+    "brandName": "II",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "S",
+    "name": "沙格列汀⼆甲双胍缓释⽚",
+    "brandName": "III",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "S",
+    "name": "沙格列汀⽚",
+    "brandName": "安⽴泽",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "S",
+    "name": "沙美特罗替卡松吸⼊⽓雾剂",
+    "brandName": "舒利迭",
+    "manufacturer": "GSK(英国)",
+    "tags": []
+  },
+  {
+    "letter": "S",
+    "name": "沙美特罗替卡松吸⼊粉雾剂",
+    "brandName": "舒利迭",
+    "manufacturer": "GSK(英国)",
+    "tags": []
+  },
+  {
+    "letter": "S",
+    "name": "⽣物合成⼈胰岛素注射液",
+    "brandName": "",
+    "manufacturer": "诺和诺德(丹麦)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "S",
+    "name": "索磷布韦⽚",
+    "brandName": "索华迪",
+    "manufacturer": "吉利德(美国)",
+    "tags": []
+  },
+  {
+    "letter": "S",
+    "name": "索磷布韦维帕他韦⽚",
+    "brandName": "丙通沙",
+    "manufacturer": "吉利德(美国)",
+    "tags": []
+  },
+  {
+    "letter": "S",
+    "name": "索磷维伏⽚",
+    "brandName": "沃⼠韦",
+    "manufacturer": "吉利德(美国)",
+    "tags": []
+  },
+  {
+    "letter": "S",
+    "name": "索⽶妥昔单抗注射液",
+    "brandName": "爱拉赫",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "S",
+    "name": "羧基麦芽糖铁注射液",
+    "brandName": "菲新捷",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "S",
+    "name": "羧甲基纤维素钠滴眼液",
+    "brandName": "潇莱威",
+    "manufacturer": "艾伯维(美国)",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "S",
+    "name": "舍雷肽酶肠溶⽚",
+    "brandName": "释瑞达",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "S",
+    "name": "舒更葡糖钠注射液",
+    "brandName": "布瑞亭",
+    "manufacturer": "默沙东(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "S",
+    "name": "舒格利单抗注射液",
+    "brandName": "择捷美",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "S",
+    "name": "舒洛地特注射液",
+    "brandName": "伟素",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "S",
+    "name": "舒洛地特软胶囊",
+    "brandName": "伟素",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "S",
+    "name": "萨特利珠单抗注射液",
+    "brandName": "安适平",
+    "manufacturer": "罗⽒(瑞⼠)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "S",
+    "name": "赛洛多⾟胶囊",
+    "brandName": "优利福",
+    "manufacturer": "第⼀三共(⽇本)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "他克莫司注射液",
+    "brandName": "普乐可复",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "他克莫司缓释胶囊",
+    "brandName": "新普乐可复",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "他克莫司胶囊",
+    "brandName": "",
+    "manufacturer": "爱尔兰Astella",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "他克莫司胶囊",
+    "brandName": "普乐可复",
+    "manufacturer": "安斯泰来(⽇本)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "他克莫司软膏",
+    "brandName": "",
+    "manufacturer": "⽇本Astellas",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "他克莫司软膏",
+    "brandName": "普特彼",
+    "manufacturer": "利奥(丹麦)",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "他卡西醇软膏",
+    "brandName": "",
+    "manufacturer": "⽇本帝⼈株式会社医药",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "他卡西醇软膏",
+    "brandName": "萌尔夫",
+    "manufacturer": "帝⼈",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "他氟前列素滴眼液",
+    "brandName": "泰普罗斯",
+    "manufacturer": "参天制药",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "他达拉⾮⽚",
+    "brandName": "",
+    "manufacturer": "波多黎各Lilly",
+    "tags": []
+  },
+  {
+    "letter": "T",
+    "name": "他达拉⾮⽚",
+    "brandName": "希爱⼒",
+    "manufacturer": "美纳⾥尼(意⼤利)",
+    "tags": []
+  },
+  {
+    "letter": "T",
+    "name": "兔抗⼈胸腺细胞免疫球蛋⽩",
+    "brandName": "即复宁",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": []
+  },
+  {
+    "letter": "T",
+    "name": "头孢丙烯⽚",
+    "brandName": "",
+    "manufacturer": "BMS(美国)",
+    "tags": []
+  },
+  {
+    "letter": "T",
+    "name": "头孢克洛⼲混悬剂",
+    "brandName": "",
+    "manufacturer": "礼来(美国)",
+    "tags": [
+      "混悬剂"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "头孢克洛⼲混悬剂",
+    "brandName": "希刻劳",
+    "manufacturer": "礼来(美国)",
+    "tags": [
+      "混悬剂"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "头孢克洛缓释⽚",
+    "brandName": "II",
+    "manufacturer": "礼来(美国)",
+    "tags": []
+  },
+  {
+    "letter": "T",
+    "name": "头孢克洛缓释⽚",
+    "brandName": "II",
+    "manufacturer": "礼来(美国)",
+    "tags": []
+  },
+  {
+    "letter": "T",
+    "name": "头孢克洛胶囊",
+    "brandName": "",
+    "manufacturer": "礼来(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "头孢克洛胶囊",
+    "brandName": "希刻劳",
+    "manufacturer": "礼来(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "头孢克肟分散⽚",
+    "brandName": "",
+    "manufacturer": "⼴州⽩云⼭制药⼴州⽩",
+    "tags": []
+  },
+  {
+    "letter": "T",
+    "name": "头孢克肟⽚",
+    "brandName": "",
+    "manufacturer": "⼴州⽩云⼭制药⼴州⽩",
+    "tags": []
+  },
+  {
+    "letter": "T",
+    "name": "头孢克肟胶囊",
+    "brandName": "",
+    "manufacturer": "⼴州⽩云⼭制药⼴州⽩",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "头孢克肟颗粒",
+    "brandName": "",
+    "manufacturer": "⼴州⽩云⼭制药⼴州⽩",
+    "tags": []
+  },
+  {
+    "letter": "T",
+    "name": "托吡酯⽚",
+    "brandName": "",
+    "manufacturer": "杨森(美国)",
+    "tags": []
+  },
+  {
+    "letter": "T",
+    "name": "托吡酯⽚",
+    "brandName": "妥泰",
+    "manufacturer": "强⽣(美国)",
+    "tags": []
+  },
+  {
+    "letter": "T",
+    "name": "托吡酯胶囊",
+    "brandName": "",
+    "manufacturer": "波多黎各Jansse",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "托吡酯胶囊",
+    "brandName": "妥泰",
+    "manufacturer": "强⽣(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "托夫⽣注射液",
+    "brandName": "凯盛迪",
+    "manufacturer": "渤健",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "托珠单抗注射液",
+    "brandName": "雅美罗",
+    "manufacturer": "罗⽒(瑞⼠)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "拓培⾮格司亭注射液",
+    "brandName": "珮⾦",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "替勃龙⽚",
+    "brandName": "",
+    "manufacturer": "南京欧加农制药",
+    "tags": []
+  },
+  {
+    "letter": "T",
+    "name": "替勃龙⽚",
+    "brandName": "利维爱",
+    "manufacturer": "欧加隆(美国)",
+    "tags": []
+  },
+  {
+    "letter": "T",
+    "name": "替吉奥胶囊",
+    "brandName": "",
+    "manufacturer": "⽇本⼤鹏药品⼯业株式",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "替吉奥胶囊",
+    "brandName": "爱斯万",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "替尔泊肽注射液",
+    "brandName": "穆峰达",
+    "manufacturer": "礼来(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "替普瑞酮胶囊",
+    "brandName": "",
+    "manufacturer": "卫材(⽇本)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "替普瑞酮胶囊",
+    "brandName": "施维舒",
+    "manufacturer": "卫材(⽇本)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "替格瑞洛⽚",
+    "brandName": "倍林达",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "T",
+    "name": "替⽐夫定⽚",
+    "brandName": "",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "T",
+    "name": "替⽐夫定⽚",
+    "brandName": "素⽐伏",
+    "manufacturer": "辉致(美国)",
+    "tags": []
+  },
+  {
+    "letter": "T",
+    "name": "替瑞奇珠单抗注射液",
+    "brandName": "特诺阿",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "替⽶沙坦氢氯噻嗪⽚",
+    "brandName": "美嘉素",
+    "manufacturer": "勃林格(德国)",
+    "tags": []
+  },
+  {
+    "letter": "T",
+    "name": "替⽶沙坦氨氯地平⽚",
+    "brandName": "双加",
+    "manufacturer": "勃林格(德国)",
+    "tags": []
+  },
+  {
+    "letter": "T",
+    "name": "替⽶沙坦⽚",
+    "brandName": "",
+    "manufacturer": "勃林格(德国)",
+    "tags": []
+  },
+  {
+    "letter": "T",
+    "name": "替⽶沙坦⽚",
+    "brandName": "美卡素",
+    "manufacturer": "勃林格(德国)",
+    "tags": []
+  },
+  {
+    "letter": "T",
+    "name": "特⽴妥单抗注射液",
+    "brandName": "泰⽴珂",
+    "manufacturer": "强⽣(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "特⽴帕肽注射液",
+    "brandName": "复泰奥",
+    "manufacturer": "礼来(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "特⽴氟胺⽚",
+    "brandName": "奥巴捷",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": []
+  },
+  {
+    "letter": "T",
+    "name": "碳酸司维拉姆⽚",
+    "brandName": "诺维乐",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "T",
+    "name": "碳酸钙 D3 咀嚼⽚",
+    "brandName": "II",
+    "manufacturer": "赫⼒昂(英国)",
+    "tags": []
+  },
+  {
+    "letter": "T",
+    "name": "碳酸钙 D3 咀嚼⽚",
+    "brandName": "III",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "T",
+    "name": "碳酸钙 D3 ⽚",
+    "brandName": "I",
+    "manufacturer": "赫⼒昂(英国)",
+    "tags": []
+  },
+  {
+    "letter": "T",
+    "name": "碳酸钙维 D3 元素⽚",
+    "brandName": "4",
+    "manufacturer": "赫⼒昂(英国)",
+    "tags": []
+  },
+  {
+    "letter": "T",
+    "name": "碳酸镧咀嚼⽚",
+    "brandName": "福斯利诺",
+    "manufacturer": "武⽥(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "T",
+    "name": "通⽤名",
+    "brandName": "商品名",
+    "manufacturer": "⼚家",
+    "tags": []
+  },
+  {
+    "letter": "T",
+    "name": "酮咯酸氨丁三醇滴眼液",
+    "brandName": "",
+    "manufacturer": "爱尔兰Allerga",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "酮康唑乳膏",
+    "brandName": "",
+    "manufacturer": "杨森(美国)",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "酮康唑乳膏",
+    "brandName": "⾦达克宁",
+    "manufacturer": "强⽣(美国)",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "T",
+    "name": "酮康唑洗剂",
+    "brandName": "",
+    "manufacturer": "杨森(美国)",
+    "tags": []
+  },
+  {
+    "letter": "T",
+    "name": "酮康唑⽚",
+    "brandName": "",
+    "manufacturer": "杨森(美国)",
+    "tags": []
+  },
+  {
+    "letter": "T",
+    "name": "酮洛芬凝胶",
+    "brandName": "法斯通",
+    "manufacturer": "美纳⾥尼(意⼤利)",
+    "tags": [
+      "凝胶"
+    ]
+  },
+  {
+    "letter": "W",
+    "name": "50/50 混合重组⼈胰岛素注射液",
+    "brandName": "诺和灵",
+    "manufacturer": "诺和诺德(丹麦)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "W",
+    "name": "乌司奴单抗注射液",
+    "brandName": "喜达诺",
+    "manufacturer": "强⽣(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "W",
+    "name": "乌司奴单抗注射液",
+    "brandName": "静脉输注",
+    "manufacturer": "强⽣(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "W",
+    "name": "乌帕替尼缓释⽚",
+    "brandName": "瑞福",
+    "manufacturer": "艾伯维(美国)",
+    "tags": []
+  },
+  {
+    "letter": "W",
+    "name": "乌美溴铵维兰特罗吸⼊粉雾剂",
+    "brandName": "欧乐欣",
+    "manufacturer": "GSK(英国)",
+    "tags": []
+  },
+  {
+    "letter": "W",
+    "name": "屋尘螨变应原制剂",
+    "brandName": "安脱达",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "W",
+    "name": "戊酸雌⼆醇⽚",
+    "brandName": "",
+    "manufacturer": "法国杜芬药⼚DELP",
+    "tags": []
+  },
+  {
+    "letter": "W",
+    "name": "戊酸雌⼆醇⽚",
+    "brandName": "补佳乐",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "W",
+    "name": "戊酸雌⼆醇⽚/雌⼆醇环丙孕酮⽚复合包装",
+    "brandName": "克龄蒙",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "W",
+    "name": "维奈克拉⽚",
+    "brandName": "唯可来",
+    "manufacturer": "艾伯维(美国)",
+    "tags": []
+  },
+  {
+    "letter": "W",
+    "name": "维格列汀⽚",
+    "brandName": "佳维乐",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "W",
+    "name": "维⽣素 B12 滴眼液",
+    "brandName": "散克巴",
+    "manufacturer": "",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "W",
+    "name": "维⽣素 C 泡腾⽚",
+    "brandName": "⼒度伸",
+    "manufacturer": "拜⽿(德国)",
+    "tags": []
+  },
+  {
+    "letter": "W",
+    "name": "维⽴西呱⽚",
+    "brandName": "唯可同",
+    "manufacturer": "拜⽿(德国)",
+    "tags": []
+  },
+  {
+    "letter": "W",
+    "name": "维莫⾮尼⽚",
+    "brandName": "佐博伏",
+    "manufacturer": "罗⽒(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "W",
+    "name": "胃膜素胶囊",
+    "brandName": "为舒怡",
+    "manufacturer": "卫材(⽇本)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "W",
+    "name": "胃蛋⽩酶⽚",
+    "brandName": "贝尔严清",
+    "manufacturer": "卫材(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "吸⼊⽤七氟烷",
+    "brandName": "喜保福宁",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "吸⼊⽤⼄酰半胱氨酸溶液",
+    "brandName": "富露施",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "吸⼊⽤伊洛前列素溶液",
+    "brandName": "万他维",
+    "manufacturer": "拜⽿(德国)",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "吸⼊⽤复⽅异丙托溴铵溶液",
+    "brandName": "可必特",
+    "manufacturer": "勃林格(德国)",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "吸⼊⽤布地奈德混悬液",
+    "brandName": "",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": [
+      "混悬剂"
+    ]
+  },
+  {
+    "letter": "X",
+    "name": "吸⼊⽤布地奈德混悬液",
+    "brandName": "普⽶克令舒",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": [
+      "混悬剂"
+    ]
+  },
+  {
+    "letter": "X",
+    "name": "吸⼊⽤异丙托溴铵溶液",
+    "brandName": "",
+    "manufacturer": "勃林格(德国)",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "吸⼊⽤异丙托溴铵溶液",
+    "brandName": "爱全乐",
+    "manufacturer": "勃林格(德国)",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "吸⼊⽤硫酸沙丁胺醇溶液",
+    "brandName": "",
+    "manufacturer": "GSK(英国)",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "吸⼊⽤硫酸沙丁胺醇溶液",
+    "brandName": "万托林",
+    "manufacturer": "GSK(英国)",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "⼩⼉伪⿇滴剂",
+    "brandName": "艾清",
+    "manufacturer": "强⽣(美国)",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "⼩⼉善存⽚",
+    "brandName": "惠⽒",
+    "manufacturer": "赫⼒昂(英国)",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "⼩⼉多维⽣素咀嚼⽚",
+    "brandName": "10",
+    "manufacturer": "BMS(美国)",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "⼩⼉愈美那敏溶液",
+    "brandName": "珮夫⼈",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "⼩⼉法罗培南钠颗粒",
+    "brandName": "菲若姆",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "⼩⼉美敏伪⿇⼝腔溶液",
+    "brandName": "艾平",
+    "manufacturer": "强⽣(美国)",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "⼩麦纤维素颗粒",
+    "brandName": "⾮⽐麸",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "消旋卡多曲散",
+    "brandName": "海兰赛",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "溴夫定⽚",
+    "brandName": "左代",
+    "manufacturer": "柏林制药",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "溴芬酸钠滴眼液",
+    "brandName": "普罗纳克",
+    "manufacturer": "",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "X",
+    "name": "溴莫尼定噻吗洛尔滴眼液",
+    "brandName": "科⽐根",
+    "manufacturer": "艾伯维(美国)",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "X",
+    "name": "熊去氧胆酸胶囊",
+    "brandName": "优思弗",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "X",
+    "name": "硝呋太尔-制霉菌素阴道栓",
+    "brandName": "",
+    "manufacturer": "意⼤利多帕DOPPE",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "硝呋太尔制霉菌素阴道软胶囊",
+    "brandName": "麦咪康帕",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "X",
+    "name": "硝呋太尔⽚",
+    "brandName": "",
+    "manufacturer": "意⼤利多帕DOPPE",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "硝呋太尔⽚",
+    "brandName": "麦⽶兰",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "硝呋太尔阴道⽚",
+    "brandName": "",
+    "manufacturer": "意⼤利多帕DOPPE",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "硝苯地平控释⽚",
+    "brandName": "拜新同",
+    "manufacturer": "拜⽿(德国)",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "硝苯地平控释⽚",
+    "brandName": "拜新同",
+    "manufacturer": "拜⽿(德国)",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "硝⾟酸注射液",
+    "brandName": "美⼒宝",
+    "manufacturer": "海默尼",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "X",
+    "name": "硝酸咪康唑乳膏",
+    "brandName": "",
+    "manufacturer": "杨森(美国)",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "X",
+    "name": "硝酸咪康唑乳膏",
+    "brandName": "达克宁",
+    "manufacturer": "强⽣(美国)",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "X",
+    "name": "硝酸咪康唑散",
+    "brandName": "",
+    "manufacturer": "杨森(美国)",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "硝酸咪康唑栓",
+    "brandName": "",
+    "manufacturer": "杨森(美国)",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "硝酸咪康唑栓",
+    "brandName": "达克宁",
+    "manufacturer": "强⽣(美国)",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "硝酸咪康唑阴道软胶囊",
+    "brandName": "",
+    "manufacturer": "法国Cardinal",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "X",
+    "name": "硝酸咪康唑阴道软胶囊",
+    "brandName": "达克宁",
+    "manufacturer": "强⽣(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "X",
+    "name": "硝酸异⼭梨酯喷雾剂",
+    "brandName": "",
+    "manufacturer": "德国ColepCCL(珠海分装）)",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "硝酸异⼭梨酯喷雾剂",
+    "brandName": "异舒吉",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "硝酸异⼭梨酯注射液",
+    "brandName": "异舒吉",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "X",
+    "name": "硝酸⽢油喷雾剂",
+    "brandName": "保欣宁",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "硝酸⽢油⾆下⽚",
+    "brandName": "耐绞宁",
+    "manufacturer": "辉致(美国)",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "硝酸益康唑乳膏",
+    "brandName": "澳可修",
+    "manufacturer": "澳美(中国⾹港)",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "X",
+    "name": "硝酸益康唑阴道⽚",
+    "brandName": "澳可修",
+    "manufacturer": "澳美(中国⾹港)",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "硝酸舍他康唑乳膏",
+    "brandName": "",
+    "manufacturer": "西班⽛FERRERI",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "X",
+    "name": "硝酸舍他康唑乳膏",
+    "brandName": "卓兰",
+    "manufacturer": "",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "X",
+    "name": "细菌溶解产物胶囊",
+    "brandName": "泛福舒",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "X",
+    "name": "缬沙坦氨氯地平⽚",
+    "brandName": "I",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "缬沙坦氨氯地平⽚",
+    "brandName": "I",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "缬沙坦⽚",
+    "brandName": "代⽂",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "缬沙坦胶囊",
+    "brandName": "代⽂",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "X",
+    "name": "西吡氯铵含⽚",
+    "brandName": "开刻⽴",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "西咪替丁⽚",
+    "brandName": "",
+    "manufacturer": "中美天津史克制药",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "西咪替丁⽚",
+    "brandName": "泰胃美",
+    "manufacturer": "中美史克(英国)",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "西妥昔单抗注射液",
+    "brandName": "爱必妥",
+    "manufacturer": "默克(德国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "X",
+    "name": "西尼莫德⽚",
+    "brandName": "万⽴能",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "西格列汀⼆甲双胍⽚",
+    "brandName": "I",
+    "manufacturer": "默沙东(美国)",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "西格列汀⼆甲双胍⽚",
+    "brandName": "II",
+    "manufacturer": "默沙东(美国)",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "西洛他唑⽚",
+    "brandName": "",
+    "manufacturer": "浙江⼤家制药",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "西洛他唑⽚",
+    "brandName": "培达",
+    "manufacturer": "⼤冢(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "西甲硅油乳剂",
+    "brandName": "柏西",
+    "manufacturer": "柏林制药",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "西达本胺⽚",
+    "brandName": "爱谱沙",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "⾟伐他汀⽚",
+    "brandName": "",
+    "manufacturer": "默沙东(美国)",
+    "tags": []
+  },
+  {
+    "letter": "X",
+    "name": "⾟伐他汀⽚",
+    "brandName": "舒降之",
+    "manufacturer": "默沙东(美国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "10%脂肪乳",
+    "brandName": "OO",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "⼄磺酸尼达尼布软胶囊",
+    "brandName": "维加特",
+    "manufacturer": "勃林格(德国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "⼄酰半胱氨酸泡腾⽚",
+    "brandName": "富露施",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "⼄酰半胱氨酸⽚",
+    "brandName": "富露施",
+    "manufacturer": "赞邦",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "⼄酰半胱氨酸颗粒",
+    "brandName": "富露施",
+    "manufacturer": "赞邦",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "⼄酰麦迪霉素⼲混悬剂",
+    "brandName": "",
+    "manufacturer": "汕头经济特区明治医药",
+    "tags": [
+      "混悬剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "伊匹⽊单抗注射液",
+    "brandName": "逸沃",
+    "manufacturer": "BMS(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "伊奈利珠单抗注射液",
+    "brandName": "昕越",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "伊布替尼胶囊",
+    "brandName": "亿珂",
+    "manufacturer": "强⽣(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "伊曲康唑⼝服液",
+    "brandName": "",
+    "manufacturer": "杨森(美国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "伊曲康唑注射液",
+    "brandName": "斯⽪仁诺",
+    "manufacturer": "强⽣(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "伊曲康唑胶囊",
+    "brandName": "",
+    "manufacturer": "杨森(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "伊曲康唑胶囊",
+    "brandName": "斯⽪仁诺",
+    "manufacturer": "强⽣(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "伊班膦酸钠注射液",
+    "brandName": "邦罗⼒",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "依伏卡塞⽚",
+    "brandName": "盖优平",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "依奇珠单抗注射液",
+    "brandName": "拓咨",
+    "manufacturer": "礼来(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "依巴斯汀⽚",
+    "brandName": "",
+    "manufacturer": "西班⽛INDUSTR",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "依巴斯汀⽚",
+    "brandName": "开思亭",
+    "manufacturer": "艾美罗",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "依库珠单抗注射液",
+    "brandName": "舒⽴瑞",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "依托咪酯中/长链脂肪乳注射液",
+    "brandName": "宜妥利",
+    "manufacturer": "贝朗",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "依托孕烯植⼊剂",
+    "brandName": "依伴侬",
+    "manufacturer": "欧加隆(美国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "依托泊苷软胶囊",
+    "brandName": "拉司太特",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "依托考昔⽚",
+    "brandName": "",
+    "manufacturer": "默沙东(美国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "依托考昔⽚",
+    "brandName": "安康信",
+    "manufacturer": "默沙东(美国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "依托芬那酯乳膏",
+    "brandName": "优迈",
+    "manufacturer": "拜⽿(德国)",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "依托芬那酯凝胶",
+    "brandName": "澳托芬",
+    "manufacturer": "澳美(中国⾹港)",
+    "tags": [
+      "凝胶"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "依托芬那酯喷雾剂",
+    "brandName": "优迈",
+    "manufacturer": "辉致(美国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "依折麦布⽚",
+    "brandName": "",
+    "manufacturer": "新加坡SCHERIN(SINGAPORE)PTE LTD)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "依折麦布⽚",
+    "brandName": "益适纯",
+    "manufacturer": "欧加隆(美国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "依折麦布⾟伐他汀⽚",
+    "brandName": "葆⾄能",
+    "manufacturer": "欧加隆(美国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "依普利酮⽚",
+    "brandName": "秦络欣",
+    "manufacturer": "雅培(美国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "依柯胰岛素注射液",
+    "brandName": "诺和期",
+    "manufacturer": "诺和诺德(丹麦)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "依洛尤单抗注射液",
+    "brandName": "瑞百安",
+    "manufacturer": "安进(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "依洛硫酸酯酶α注射液",
+    "brandName": "唯铭赞",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "依瑞奈尤单抗注射液",
+    "brandName": "安默唯",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "依维莫司⽚",
+    "brandName": "飞尼妥",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "依西美坦⽚",
+    "brandName": "",
+    "manufacturer": "辉瑞(美国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "依西美坦⽚",
+    "brandName": "阿诺新",
+    "manufacturer": "辉瑞(美国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "依诺肝素钠注射液",
+    "brandName": "克赛",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "依达赛珠单抗注射液",
+    "brandName": "泰华安",
+    "manufacturer": "勃林格(德国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "依那西普注射液",
+    "brandName": "恩利",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "依降钙素注射液",
+    "brandName": "益盖宁",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "依马利尤单抗注射液",
+    "brandName": "伽雷芬",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "右旋糖酐羟丙甲纤维素滴眼液",
+    "brandName": "倍然",
+    "manufacturer": "",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "右旋糖酐铁注射液",
+    "brandName": "科莫⾮",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "右美沙芬愈创⽢油醚糖浆",
+    "brandName": "艾舒",
+    "manufacturer": "强⽣(美国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "吲哚美⾟凝胶",
+    "brandName": "万特⼒",
+    "manufacturer": "",
+    "tags": [
+      "凝胶"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "吲哚美⾟巴布膏",
+    "brandName": "必艾得",
+    "manufacturer": "",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "吲哚美⾟栓剂",
+    "brandName": "万特⼒",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "吲哚美⾟贴⽚",
+    "brandName": "万特⼒",
+    "manufacturer": "",
+    "tags": [
+      "贴剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "吲达帕胺⽚",
+    "brandName": "纳催离",
+    "manufacturer": "施维雅(法国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "吲达帕胺缓释⽚",
+    "brandName": "纳催离",
+    "manufacturer": "施维雅(法国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "异丙托溴铵吸⼊⽓雾剂",
+    "brandName": "爱全乐",
+    "manufacturer": "勃林格(德国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "异丙托溴铵⽓雾剂",
+    "brandName": "",
+    "manufacturer": "勃林格(德国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "异氟烷",
+    "brandName": "艾恩美",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "愈美⽚",
+    "brandName": "惠菲宁",
+    "manufacturer": "赫⼒昂(英国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "愈酚溴新⼝服溶液",
+    "brandName": "惠菲通",
+    "manufacturer": "赫⼒昂(英国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "氧氟沙星滴眼液",
+    "brandName": "",
+    "manufacturer": "⽇本参天制药株式会社",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "氧氟沙星滴眼液",
+    "brandName": "泰利必妥",
+    "manufacturer": "参天制药",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "氧氟沙星⽚",
+    "brandName": "",
+    "manufacturer": "第⼀三共(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "氧氟沙星眼膏",
+    "brandName": "",
+    "manufacturer": "⽇本参天制药株式会社",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "氧氟沙星眼膏",
+    "brandName": "泰利必妥",
+    "manufacturer": "参天制药",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸丙卡特罗⼝服溶液",
+    "brandName": "美普清",
+    "manufacturer": "⼤冢(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸丙卡特罗⽚",
+    "brandName": "",
+    "manufacturer": "⼤冢(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸丙卡特罗⽚",
+    "brandName": "美普清",
+    "manufacturer": "⼤冢(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸丙帕他莫注射液",
+    "brandName": "迈通诺",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸丙美卡因滴眼液",
+    "brandName": "爱尔凯因",
+    "manufacturer": "",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸乌拉地尔注射液",
+    "brandName": "亚宁定",
+    "manufacturer": "武⽥(⽇本)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸乐卡地平⽚",
+    "brandName": "",
+    "manufacturer": "意⼤利Recorda",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸乐卡地平⽚",
+    "brandName": "再宁平",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸⼄哌⽴松⽚",
+    "brandName": "",
+    "manufacturer": "卫材(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸⼄胺⽴松⽚",
+    "brandName": "妙纳",
+    "manufacturer": "卫材(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸⼆甲双胍⽚",
+    "brandName": "",
+    "manufacturer": "BMS(美国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸⼆甲双胍⽚",
+    "brandName": "格华⽌",
+    "manufacturer": "默克(德国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸⼆甲双胍缓释⽚",
+    "brandName": "",
+    "manufacturer": "美国Bristol-",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸⼆甲双胍缓释⽚",
+    "brandName": "格华⽌",
+    "manufacturer": "默克(德国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸伊伐布雷定⽚",
+    "brandName": "可兰特",
+    "manufacturer": "施维雅(法国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸伊托必利⽚",
+    "brandName": "",
+    "manufacturer": "雅培(美国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸伊托必利⽚",
+    "brandName": "为⼒苏",
+    "manufacturer": "雅培(美国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸伊普可盼胶囊",
+    "brandName": "飞赫达",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸伊⽴替康注射液",
+    "brandName": "开普拓",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸伊达⽐星胶囊",
+    "brandName": "",
+    "manufacturer": "意⼤利Nervian",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸伐地那⾮⽚",
+    "brandName": "",
+    "manufacturer": "德国Bayer He",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸伐昔洛韦⽚",
+    "brandName": "维德思",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸佐利替尼⽚",
+    "brandName": "泽瑞尼",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸依特卡肽注射液",
+    "brandName": "旁必福",
+    "manufacturer": "安进(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸倍他洛尔滴眼液",
+    "brandName": "贝特舒",
+    "manufacturer": "",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸利托君注射液",
+    "brandName": "安宝",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸利托君⽚",
+    "brandName": "安宝",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸卡替洛尔滴眼液",
+    "brandName": "",
+    "manufacturer": "中国⼤家制药",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸卡替洛尔滴眼液",
+    "brandName": "美开朗",
+    "manufacturer": "⼤冢(⽇本)",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸卡马替尼⽚",
+    "brandName": "妥瑞达",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸厄洛替尼⽚",
+    "brandName": "",
+    "manufacturer": "美国许⽡兹Schwa",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸厄洛替尼⽚",
+    "brandName": "特罗凯",
+    "manufacturer": "罗⽒(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸司来吉兰⽚",
+    "brandName": "咪多吡",
+    "manufacturer": "奥⽴安",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸司来吉兰⽚",
+    "brandName": "美时⽟",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸吡格列酮⽚",
+    "brandName": "",
+    "manufacturer": "同上，mRNA福星情",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸咪达普利⽚",
+    "brandName": "",
+    "manufacturer": "天津⽥边制药",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸哌甲酯缓释⽚",
+    "brandName": "专注达",
+    "manufacturer": "强⽣(美国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸噻氯匹定⽚",
+    "brandName": "",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸地尔硫卓⽚",
+    "brandName": "",
+    "manufacturer": "天津⽥边制药",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸地尔硫卓⽚",
+    "brandName": "合⼼爽",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸地尔硫卓缓释胶囊",
+    "brandName": "II",
+    "manufacturer": "天津⽥边制药",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸坦索罗⾟缓释胶囊",
+    "brandName": "",
+    "manufacturer": "安斯泰来(⽇本)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸坦索罗⾟缓释胶囊",
+    "brandName": "哈乐",
+    "manufacturer": "安斯泰来(⽇本)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸埃克替尼⽚",
+    "brandName": "凯美纳",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸塞他维林注射液",
+    "brandName": "诺仕帕",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸塞他维林⽚",
+    "brandName": "诺仕帕",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸多奈哌齐⽚",
+    "brandName": "",
+    "manufacturer": "卫材(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸多奈哌齐⽚",
+    "brandName": "安理申",
+    "manufacturer": "卫材(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸奥布卡因滴眼液",
+    "brandName": "倍诺喜",
+    "manufacturer": "",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸奥昔布宁胶囊",
+    "brandName": "热拍西亚",
+    "manufacturer": "BMS(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸奥普⼒农注射液",
+    "brandName": "爱尔卓泰",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸奥洛他定滴眼液",
+    "brandName": "帕坦洛",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸奥洛他定⽚",
+    "brandName": "同洛刻",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸安妥沙星⽚",
+    "brandName": "",
+    "manufacturer": "安徽环球",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸安妥沙星⽚",
+    "brandName": "优明",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸安罗替尼胶囊",
+    "brandName": "福可维",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸尼卡地平注射液",
+    "brandName": "佩尔",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸尼卡地平缓释胶囊",
+    "brandName": "",
+    "manufacturer": "安斯泰来(⽇本)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸屈他维林⽚",
+    "brandName": "",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸左卡巴斯汀⿐喷剂",
+    "brandName": "",
+    "manufacturer": "⽐利时Janssen",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸左卡巴斯汀⿐喷雾剂",
+    "brandName": "⽴复汀",
+    "manufacturer": "强⽣(美国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸左布诺洛尔滴眼液",
+    "brandName": "",
+    "manufacturer": "爱尔兰Allerga",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸左西替利嗪⽚",
+    "brandName": "",
+    "manufacturer": "瑞⼠ UCB FAR",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸左西替利嗪⽚",
+    "brandName": "优泽",
+    "manufacturer": "优时⽐(⽐利时)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸巴尼地平缓释胶囊",
+    "brandName": "合普卡",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸帕洛诺司琼注射液",
+    "brandName": "诺威",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸帕洛诺司琼软胶囊",
+    "brandName": "阿洛西",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸帕罗西汀⽚",
+    "brandName": "",
+    "manufacturer": "中美天津史克制药",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸帕罗西汀⽚",
+    "brandName": "赛乐特",
+    "manufacturer": "GSK(英国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸帕罗西汀肠溶缓释⽚",
+    "brandName": "赛乐特",
+    "manufacturer": "GSK(英国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸度洛西汀肠溶胶囊",
+    "brandName": "",
+    "manufacturer": "礼来(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸度洛西汀肠溶胶囊",
+    "brandName": "欣百达",
+    "manufacturer": "礼来(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸戊⼄奎醚注射液",
+    "brandName": "长托宁",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸托莫西汀胶囊",
+    "brandName": "",
+    "manufacturer": "波多黎各Lilly",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸托莫西汀胶囊",
+    "brandName": "择思达",
+    "manufacturer": "礼来(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸⽂拉法⾟缓释胶囊",
+    "brandName": "",
+    "manufacturer": "爱尔兰惠⽒制药Wye",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸⽂拉法⾟缓释胶囊",
+    "brandName": "怡诺思",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸普拉克索⽚",
+    "brandName": "",
+    "manufacturer": "勃林格(德国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸普拉克索⽚",
+    "brandName": "森福罗",
+    "manufacturer": "勃林格(德国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸普拉克索缓释⽚",
+    "brandName": "森福罗",
+    "manufacturer": "勃林格(德国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸普罗帕酮⽚",
+    "brandName": "",
+    "manufacturer": "德国Abbott,G",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸普罗帕酮⽚",
+    "brandName": "悦复隆",
+    "manufacturer": "雅培(美国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸曲普利啶胶囊",
+    "brandName": "刻免",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸曲美他嗪⽚",
+    "brandName": "",
+    "manufacturer": "施维雅(法国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸曲美他嗪⽚",
+    "brandName": "万爽⼒",
+    "manufacturer": "施维雅(法国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸曲美他嗪缓释⽚",
+    "brandName": "万爽⼒",
+    "manufacturer": "施维雅(法国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸曲马多注射液",
+    "brandName": "舒敏",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸曲马多缓释⽚",
+    "brandName": "",
+    "manufacturer": "意⼤利Farmace",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸曲马多缓释⽚",
+    "brandName": "奇曼洛",
+    "manufacturer": "⼭德⼠",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸曲马多胶囊",
+    "brandName": "",
+    "manufacturer": "意⼤利Farmace",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸曲马多胶囊",
+    "brandName": "舒敏",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸替罗⾮班注射液",
+    "brandName": "艾卡特",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸替罗⾮班注射⽤浓溶液",
+    "brandName": "艾卡特",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸氟桂利嗪胶囊",
+    "brandName": "",
+    "manufacturer": "杨森(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸氟桂利嗪胶囊",
+    "brandName": "西⽐灵",
+    "manufacturer": "强⽣(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸氟西汀分散⽚",
+    "brandName": "",
+    "manufacturer": "礼来(美国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸氟西汀分散⽚",
+    "brandName": "百优解",
+    "manufacturer": "礼来(美国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸氟西汀胶囊",
+    "brandName": "",
+    "manufacturer": "礼来(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸氟西汀胶囊",
+    "brandName": "百优解",
+    "manufacturer": "礼来(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸氨基葡萄糖胶囊",
+    "brandName": "奥泰灵",
+    "manufacturer": "澳美(中国⾹港)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸氨溴索⼝服溶液",
+    "brandName": "Obroxol",
+    "manufacturer": "澳美(中国⾹港)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸氨溴索注射液",
+    "brandName": "沐舒坦",
+    "manufacturer": "勃林格(德国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸氨溴索⽚",
+    "brandName": "",
+    "manufacturer": "勃林格(德国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸氨溴索⽚",
+    "brandName": "安普索",
+    "manufacturer": "⼭德⼠",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸氨溴索缓释胶囊",
+    "brandName": "",
+    "manufacturer": "勃林格(德国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸氨溴索胶囊",
+    "brandName": "坦静",
+    "manufacturer": "⼤冢(⽇本)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸氮卓斯汀滴眼液",
+    "brandName": "爱赛平",
+    "manufacturer": "辉致(美国)",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸氮卓斯汀⿐喷剂",
+    "brandName": "",
+    "manufacturer": "德国 MEDA Ma",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸氮卓斯汀⿐喷雾剂",
+    "brandName": "爱赛平",
+    "manufacturer": "辉致(美国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸氯⽶帕明⽚",
+    "brandName": "",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸法舒地尔注射液",
+    "brandName": "依⽴产",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸洛哌丁胺胶囊",
+    "brandName": "",
+    "manufacturer": "杨森(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸洛哌丁胺胶囊",
+    "brandName": "易蒙停",
+    "manufacturer": "强⽣(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸特拉唑嗪⽚",
+    "brandName": "",
+    "manufacturer": "雅培(美国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸特拉唑嗪⽚",
+    "brandName": "⾼特灵",
+    "manufacturer": "雅培(美国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸特⽐萘芬乳膏",
+    "brandName": "",
+    "manufacturer": "中美天津史克制药",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸特⽐萘芬乳膏",
+    "brandName": "兰美抒",
+    "manufacturer": "中美史克(英国)",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸特⽐萘芬喷雾剂",
+    "brandName": "采特",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸特⽐萘芬涂膜剂",
+    "brandName": "兰美抒",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸特⽐萘芬⽚",
+    "brandName": "",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸特泊替尼⽚",
+    "brandName": "拓得康",
+    "manufacturer": "默克(德国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸环丙沙星滴眼液",
+    "brandName": "赛飞杰",
+    "manufacturer": "",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸班布特罗⽚",
+    "brandName": "",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸班布特罗⽚",
+    "brandName": "帮备",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸甲哌卡因注射液",
+    "brandName": "斯康杜尼",
+    "manufacturer": "赛普敦",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸甲嘧卡因肾上腺素注射液",
+    "brandName": "斯康杜尼",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸⽶多君⽚",
+    "brandName": "",
+    "manufacturer": "奥地利Nycomed",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸⽶诺环素胶囊",
+    "brandName": "",
+    "manufacturer": "惠⽒制药",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸⽶诺环素胶囊",
+    "brandName": "玫满",
+    "manufacturer": "",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸⽶诺环素软膏",
+    "brandName": "派丽奥",
+    "manufacturer": "",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸维拉帕⽶缓释⽚",
+    "brandName": "",
+    "manufacturer": "德国Abbott G",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸缬更昔洛韦⽚",
+    "brandName": "",
+    "manufacturer": "加拿⼤PATHEON",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸缬更昔洛韦⽚",
+    "brandName": "万赛维",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸罗匹尼罗缓释⽚",
+    "brandName": "⼒希",
+    "manufacturer": "GSK(英国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸罗哌卡因注射液",
+    "brandName": "耐乐品",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸美贝维林⽚",
+    "brandName": "杜迈林",
+    "manufacturer": "雅培(美国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸美⾦刚⽚",
+    "brandName": "",
+    "manufacturer": "德国Rottendo",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸美⾦刚⽚",
+    "brandName": "易倍申",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸羟考酮缓释⽚",
+    "brandName": "奥施康定",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸胺碘酮注射液",
+    "brandName": "可达龙",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸胺碘酮⽚",
+    "brandName": "",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸胺碘酮⽚",
+    "brandName": "可达龙",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸舍曲林⽚",
+    "brandName": "",
+    "manufacturer": "辉瑞(美国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸舍曲林⽚",
+    "brandName": "左洛复",
+    "manufacturer": "辉致(美国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸芦氟沙星⽚",
+    "brandName": "",
+    "manufacturer": "意⼤利多帕DOPPE",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸芬⼽莫德胶囊",
+    "brandName": "捷灵亚",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸莫西沙星氯化钠注射液",
+    "brandName": "拜复乐",
+    "manufacturer": "拜⽿(德国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸莫西沙星⽚",
+    "brandName": "",
+    "manufacturer": "拜⽿(德国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸莫西沙星⽚",
+    "brandName": "拜复乐",
+    "manufacturer": "拜⽿(德国)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸表柔⽐星注射液",
+    "brandName": "⼭可复",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸鲁拉西酮⽚",
+    "brandName": "罗舒达",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸齐拉西酮胶囊",
+    "brandName": "",
+    "manufacturer": "澳⼤利亚Pfizer",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "盐酸齐拉西酮胶囊",
+    "brandName": "卓乐定",
+    "manufacturer": "辉致(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "胰激肽原酶肠溶⽚",
+    "brandName": "贝尔严清",
+    "manufacturer": "卫材(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "胰酶肠溶⽚",
+    "brandName": "贝尔严清",
+    "manufacturer": "卫材(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "胰酶肠溶胶囊",
+    "brandName": "",
+    "manufacturer": "德国苏威制药",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "胰酶肠溶胶囊",
+    "brandName": "得每通",
+    "manufacturer": "雅培(美国)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "英夫利西单抗注射液",
+    "brandName": "乐可为",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "茚达特罗格隆溴铵吸⼊粉雾剂",
+    "brandName": "杰润",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "荧光素钠注射液",
+    "brandName": "历设得",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "银杏叶提取物注射液",
+    "brandName": "⾦纳多",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Y",
+    "name": "银杏叶提取物滴剂",
+    "brandName": "⾦纳多",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "银杏叶提取物⽚",
+    "brandName": "⾦纳多",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "银杏叶⽚",
+    "brandName": "",
+    "manufacturer": "贵州信邦制药",
+    "tags": []
+  },
+  {
+    "letter": "Y",
+    "name": "银杏叶⽚",
+    "brandName": "达纳康",
+    "manufacturer": "益普⽣(法国)",
+    "tags": []
+  },
+  {
+    "letter": "Z",
+    "name": "中/长链脂肪乳注射液",
+    "brandName": "C6-24",
+    "manufacturer": "费卡华瑞(德国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "中/长链脂肪乳注射液",
+    "brandName": "C8-24Ve",
+    "manufacturer": "贝朗",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "佐匹克隆⽚",
+    "brandName": "亿梦返",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": []
+  },
+  {
+    "letter": "Z",
+    "name": "吡美莫司乳膏",
+    "brandName": "",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "吡贝地尔缓释⽚",
+    "brandName": "",
+    "manufacturer": "施维雅(法国)",
+    "tags": []
+  },
+  {
+    "letter": "Z",
+    "name": "吲达帕胺⽚",
+    "brandName": "",
+    "manufacturer": "施维雅(法国)",
+    "tags": []
+  },
+  {
+    "letter": "Z",
+    "name": "吲达帕胺缓释⽚",
+    "brandName": "",
+    "manufacturer": "施 维雅(天津)制药有限公司)",
+    "tags": []
+  },
+  {
+    "letter": "Z",
+    "name": "咪唑斯汀缓释⽚",
+    "brandName": "",
+    "manufacturer": "杨森(美国)",
+    "tags": []
+  },
+  {
+    "letter": "Z",
+    "name": "咪唑⽴宾⽚",
+    "brandName": "",
+    "manufacturer": "⽇本旭化成株式会社A",
+    "tags": []
+  },
+  {
+    "letter": "Z",
+    "name": "咪喹莫特乳膏",
+    "brandName": "",
+    "manufacturer": "英国3M Healt",
+    "tags": [
+      "膏剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "唑来膦酸注射液",
+    "brandName": "密固达",
+    "manufacturer": "⼭德⼠",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "噻奈普汀钠⽚",
+    "brandName": "",
+    "manufacturer": "施维雅(法国)",
+    "tags": []
+  },
+  {
+    "letter": "Z",
+    "name": "噻托溴铵粉吸⼊剂",
+    "brandName": "",
+    "manufacturer": "勃林格(德国)",
+    "tags": []
+  },
+  {
+    "letter": "Z",
+    "name": "左⼄拉西坦⼝服溶液",
+    "brandName": "开浦兰",
+    "manufacturer": "优时⽐(⽐利时)",
+    "tags": []
+  },
+  {
+    "letter": "Z",
+    "name": "左⼄拉西坦注射⽤浓溶液",
+    "brandName": "开浦兰",
+    "manufacturer": "优时⽐(⽐利时)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "左⼄拉西坦⽚",
+    "brandName": "",
+    "manufacturer": "优时⽐(⽐利时)",
+    "tags": []
+  },
+  {
+    "letter": "Z",
+    "name": "左⼄拉西坦⽚",
+    "brandName": "开浦兰",
+    "manufacturer": "优时⽐(⽐利时)",
+    "tags": []
+  },
+  {
+    "letter": "Z",
+    "name": "左卡尼汀注射液",
+    "brandName": "卡尔特",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "左块诺孕酮宫内释放系统",
+    "brandName": "曼⽉乐",
+    "manufacturer": "拜⽿(德国)",
+    "tags": []
+  },
+  {
+    "letter": "Z",
+    "name": "左块诺孕酮⽚",
+    "brandName": "保仕婷",
+    "manufacturer": "吉瑞医药",
+    "tags": []
+  },
+  {
+    "letter": "Z",
+    "name": "左氧氟沙星滴眼液",
+    "brandName": "",
+    "manufacturer": "⽇本参天制药株式会社",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "左氧氟沙星滴眼液",
+    "brandName": "可乐必妥",
+    "manufacturer": "参天制药",
+    "tags": [
+      "滴眼液"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "左氧氟沙星⽚",
+    "brandName": "",
+    "manufacturer": "第⼀三共(⽇本)",
+    "tags": []
+  },
+  {
+    "letter": "Z",
+    "name": "左氧氟沙星⽚",
+    "brandName": "可乐必妥",
+    "manufacturer": "吉洛华制药",
+    "tags": []
+  },
+  {
+    "letter": "Z",
+    "name": "左甲状腺素钠⽚",
+    "brandName": "优甲乐",
+    "manufacturer": "默克(德国)",
+    "tags": []
+  },
+  {
+    "letter": "Z",
+    "name": "左甲状腺素钠⽚",
+    "brandName": "优甲乐",
+    "manufacturer": "默克(德国)",
+    "tags": []
+  },
+  {
+    "letter": "Z",
+    "name": "左西孟旦注射液",
+    "brandName": "欣得适",
+    "manufacturer": "奥⽴安",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "扎那⽶韦吸⼊粉雾剂",
+    "brandName": "依乐韦",
+    "manufacturer": "GSK(英国)",
+    "tags": []
+  },
+  {
+    "letter": "Z",
+    "name": "整蛋⽩型肠内营养剂",
+    "brandName": "粉剂",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "Z",
+    "name": "枸橼酸坦度螺酮⽚",
+    "brandName": "",
+    "manufacturer": "⽇本住友制药株式会社(住友制药苏州分装)",
+    "tags": []
+  },
+  {
+    "letter": "Z",
+    "name": "枸橼酸托瑞⽶芬⽚",
+    "brandName": "",
+    "manufacturer": "芬兰奥⽴安⼤药⼚(Orion Corporation)",
+    "tags": []
+  },
+  {
+    "letter": "Z",
+    "name": "枸橼酸莫沙必利⽚",
+    "brandName": "",
+    "manufacturer": "⼤⽇本制药株式会社铃(The Suzuka)",
+    "tags": []
+  },
+  {
+    "letter": "Z",
+    "name": "枸橼酸西地那⾮⽚",
+    "brandName": "",
+    "manufacturer": "辉瑞(美国)",
+    "tags": []
+  },
+  {
+    "letter": "Z",
+    "name": "棕榈帕利哌酮注射液",
+    "brandName": "3M",
+    "manufacturer": "强⽣(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "棕榈酸帕利哌酮注射液",
+    "brandName": "善思达",
+    "manufacturer": "强⽣(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "治伤风颗粒",
+    "brandName": "明通",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤ 1",
+    "brandName": "6-⼆磷酸果糖",
+    "manufacturer": "爱赛福,",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤ A 型⾁毒毒素",
+    "brandName": "保妥适",
+    "manufacturer": "艾伯维(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤丁⼆磺酸腺苷蛋氨酸",
+    "brandName": "思美泰",
+    "manufacturer": "雅培(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤丙戊酸钠",
+    "brandName": "德巴⾦",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤亚胺培南西司他丁钠",
+    "brandName": "泰能",
+    "manufacturer": "默克(德国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤⼈⾼⾎糖素",
+    "brandName": "诺和⽣",
+    "manufacturer": "诺和诺德(丹麦)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤伊⽶苷酶",
+    "brandName": "思⽽赞",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤伏尼龙酸α",
+    "brandName": "维因⽌",
+    "manufacturer": "武⽥(⽇本)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤伏⽴康唑",
+    "brandName": "威凡",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤佐妥昔单抗",
+    "brandName": "威纳兹",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤全氟丁烷微球",
+    "brandName": "⽰卓安",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤六氟化硫微泡",
+    "brandName": "声诺维",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤利纳西普",
+    "brandName": "炎朵",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤卡⾮佐⽶",
+    "brandName": "凯洛斯",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤卢⽐替定",
+    "brandName": "赞必佳",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤厄他培南",
+    "brandName": "怡万之",
+    "manufacturer": "默沙东(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤厄他培南钠",
+    "brandName": "怡万之",
+    "manufacturer": "默沙东(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤司妥昔单抗",
+    "brandName": "萨罗同",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤哌库溴铵",
+    "brandName": "阿端",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤哌拉西林钠他唑巴坦钠",
+    "brandName": "特治星",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤唑来膦酸浓溶液",
+    "brandName": "择泰",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤培妥罗凝⾎素α",
+    "brandName": "诺易特",
+    "manufacturer": "诺和诺德(丹麦)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤培美曲塞⼆钠",
+    "brandName": "⼒⽐泰",
+    "manufacturer": "礼来(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤多种维⽣素",
+    "brandName": "12",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤头孢他啶",
+    "brandName": "复达欣",
+    "manufacturer": "GSK(英国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤头孢他啶阿维巴坦钠",
+    "brandName": "思福妥",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤头孢匹胺钠",
+    "brandName": "先福吡兰",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤头孢呋⾟钠",
+    "brandName": "西⼒欣",
+    "manufacturer": "GSK(英国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤头孢哌酮钠",
+    "brandName": "先锋必",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤头孢哌酮钠舒巴坦钠",
+    "brandName": "舒普深",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤头孢地嗪钠",
+    "brandName": "NEWDIZIME",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤头孢孟多酯钠",
+    "brandName": "孟得新",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤头孢曲松钠",
+    "brandName": "罗⽒芬",
+    "manufacturer": "罗⽒(瑞⼠)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤头孢替唑钠",
+    "brandName": "特⼦社复",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤头孢⽶诺钠",
+    "brandName": "美⼠灵",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤头孢西酮钠",
+    "brandName": "舒美特复",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤奥加伊妥珠单抗",
+    "brandName": "贝博萨",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤奥沙利铂",
+    "brandName": "乐沙定",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤奥美拉唑钠",
+    "brandName": "洛赛克",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤奥美拉唑钠",
+    "brandName": "静脉滴注",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤奥马珠单抗",
+    "brandName": "茁乐",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤尼可地尔",
+    "brandName": "喜格迈",
+    "manufacturer": "中外制药",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤巴利昔单抗",
+    "brandName": "舒莱",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤布美他尼",
+    "brandName": "⾟奇",
+    "manufacturer": "卫材(⽇本)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤帕瑞昔布钠",
+    "brandName": "特耐",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤异环磷酰胺",
+    "brandName": "和乐⽣",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤德曲妥珠单抗",
+    "brandName": "优赫得",
+    "manufacturer": "第⼀三共(⽇本)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤恩美曲妥珠单抗",
+    "brandName": "赫赛莱",
+    "manufacturer": "罗⽒(瑞⼠)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤⼽沙妥珠单抗",
+    "brandName": "拓达维",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤拉布⽴海",
+    "brandName": "法舒克",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤拉罗罗尼酶溶液",
+    "brandName": "艾⽽赞",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤曲妥珠单抗",
+    "brandName": "赫赛汀",
+    "manufacturer": "罗⽒(瑞⼠)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤曲⾸瑞林",
+    "brandName": "达必佳",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤更昔洛韦",
+    "brandName": "赛美维",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤替加环素",
+    "brandName": "泰阁",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤替度格鲁肽",
+    "brandName": "瑞唯抒",
+    "manufacturer": "武⽥(⽇本)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤替考拉宁",
+    "brandName": "他格适",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤氟氯沙星",
+    "brandName": "氟吗宁",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤氨苄西林钠舒巴坦钠",
+    "brandName": "优⽴新",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤⽔溶性维⽣素",
+    "brandName": "⽔乐维他",
+    "manufacturer": "费卡华瑞(德国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤泮托拉唑钠",
+    "brandName": "潘妥洛克",
+    "manufacturer": "武⽥(⽇本)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤特利加压素",
+    "brandName": "可利新",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤环磷酰胺",
+    "brandName": "安道⽣",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤⽣长抑素",
+    "brandName": "思他宁",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤甲泼尼龙琥珀酸钠",
+    "brandName": "甲强龙",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤甲磺酸去铁胺",
+    "brandName": "得斯芬",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤盐酸万古霉素",
+    "brandName": "稳可信",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤盐酸伊达⽐星",
+    "brandName": "善唯达",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤盐酸依拉环素",
+    "brandName": "依嘉",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤盐酸博来霉素",
+    "brandName": "BLEOCIN",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤盐酸吉西他滨",
+    "brandName": "健择",
+    "manufacturer": "礼来(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤盐酸地尔硫卓",
+    "brandName": "合贝爽",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤盐酸托泊替康",
+    "brandName": "和美新",
+    "manufacturer": "⼭德⼠",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤盐酸曲拉西利",
+    "brandName": "科赛拉",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤盐酸罗拜利塞",
+    "brandName": "美罗巴",
+    "manufacturer": "拜⽿(德国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤盐酸苯达莫司汀",
+    "brandName": "存达",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤盐酸表柔⽐星",
+    "brandName": "法玛新",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤硼替佐⽶",
+    "brandName": "万珂",
+    "manufacturer": "强⽣(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤磷酸氟达拉滨",
+    "brandName": "福达华",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤磷酸肌酸钠",
+    "brandName": "⾥尔统",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤福莫司汀",
+    "brandName": "武活龙",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤⽶卡芬净钠",
+    "brandName": "⽶开民",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤紫杉醇",
+    "brandName": "⽩蛋⽩结合型",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤维布妥昔单抗",
+    "brandName": "安适利",
+    "manufacturer": "武⽥(⽇本)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤维布妥昔单抗",
+    "brandName": "泽路泰",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤维得利珠单抗",
+    "brandName": "安吉优",
+    "manufacturer": "武⽥(⽇本)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤维恩妥尤单抗",
+    "brandName": "备思复",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤维拉苷酶α",
+    "brandName": "维瑞塔",
+    "manufacturer": "武⽥(⽇本)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤维泊妥珠单抗",
+    "brandName": "优罗华",
+    "manufacturer": "罗⽒(瑞⼠)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤罗普司亭",
+    "brandName": "惠尔凝",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤罗特西普",
+    "brandName": "利布洛泽",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤美罗培南",
+    "brandName": "美平",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤胸腺法新",
+    "brandName": "⽇达仙",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤舒巴坦钠/注射⽤安匹西林钠组合包装",
+    "brandName": "⿍优",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤舒索凝⾎素α",
+    "brandName": "助因⽌",
+    "manufacturer": "武⽥(⽇本)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤艾博韦泰",
+    "brandName": "艾可宁",
+    "manufacturer": "前沿⽣物",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤艾司奥美拉唑钠",
+    "brandName": "耐信",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤艾夫糖苷酶α",
+    "brandName": "耐⽽赞",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤英夫利西单抗",
+    "brandName": "类克",
+    "manufacturer": "强⽣(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤贝利尤单抗",
+    "brandName": "倍⼒腾",
+    "manufacturer": "GSK(英国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤贝林妥欧单抗",
+    "brandName": "倍利妥",
+    "manufacturer": "安进(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤达托霉素",
+    "brandName": "克必信",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤还原型⾕胱⽢肽",
+    "brandName": "泰特",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤迪西滨",
+    "brandName": "达珂",
+    "manufacturer": "强⽣(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤醋酸亮丙瑞林微球",
+    "brandName": "抑那通",
+    "manufacturer": "武⽥(⽇本)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤醋酸卡泊芬净",
+    "brandName": "科赛斯",
+    "manufacturer": "默沙东(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤醋酸奥曲肽微球",
+    "brandName": "善龙",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤醋酸曲普瑞林",
+    "brandName": "达菲林",
+    "manufacturer": "益普⽣(法国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤醋酸西曲瑞克",
+    "brandName": "思则凯",
+    "manufacturer": "默克(德国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤重组⼈促卵泡激素",
+    "brandName": "果纳芬",
+    "manufacturer": "默克(德国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤重组⼈促黄体激素α",
+    "brandName": "乐芮",
+    "manufacturer": "默克(德国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤重组⼈凝⾎因⼦IX",
+    "brandName": "贝赋",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤重组⼈凝⾎因⼦VIII",
+    "brandName": "任捷",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤重组⼈凝⾎因⼦VIIa",
+    "brandName": "诺其",
+    "manufacturer": "诺和诺德(丹麦)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤重组⼈⼲扰素β-1b",
+    "brandName": "倍泰龙",
+    "manufacturer": "拜⽿(德国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤重组⼈⽣长激素",
+    "brandName": "尤得盼",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤重组⼈粒细胞刺激因⼦",
+    "brandName": "CHO细胞",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤阿加糖酶β",
+    "brandName": "法布赞",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤阿奇霉素",
+    "brandName": "希舒美",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤阿扎胞苷",
+    "brandName": "维达莎",
+    "manufacturer": "BMS(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤阿替普酶",
+    "brandName": "爱通⽴",
+    "manufacturer": "勃林格(德国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤阿糖胞苷",
+    "brandName": "赛德萨",
+    "manufacturer": "辉瑞(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤阿糖苷酶α",
+    "brandName": "美⽽赞",
+    "manufacturer": "赛诺菲(法国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤阿莫西林钠舒巴坦钠",
+    "brandName": "特福猛",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "注射⽤⾼纯度尿促性素",
+    "brandName": "贺美奇",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "猪肺磷脂注射液",
+    "brandName": "固尔苏",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "琥珀酸索利那新⽚",
+    "brandName": "",
+    "manufacturer": "荷兰Astellas(安斯泰)",
+    "tags": []
+  },
+  {
+    "letter": "Z",
+    "name": "琥珀酸美托洛尔缓释⽚",
+    "brandName": "",
+    "manufacturer": "阿斯利康(英国/瑞典)",
+    "tags": []
+  },
+  {
+    "letter": "Z",
+    "name": "紫杉醇注射液",
+    "brandName": "泰素",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "缬沙坦氢氯噻嗪⽚",
+    "brandName": "",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "Z",
+    "name": "缬沙坦氨氯地平⽚",
+    "brandName": "I",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": []
+  },
+  {
+    "letter": "Z",
+    "name": "缬沙坦胶囊",
+    "brandName": "",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "脂溶性维⽣素注射液",
+    "brandName": "I",
+    "manufacturer": "费卡华瑞(德国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "脂溶性维⽣素注射液",
+    "brandName": "II",
+    "manufacturer": "费卡华瑞(德国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "脂肪乳",
+    "brandName": "10%",
+    "manufacturer": "",
+    "tags": []
+  },
+  {
+    "letter": "Z",
+    "name": "脂肪乳氨基酸",
+    "brandName": "17",
+    "manufacturer": "费森尤斯(德国)",
+    "tags": []
+  },
+  {
+    "letter": "Z",
+    "name": "脂肪乳氨基酸",
+    "brandName": "17",
+    "manufacturer": "费森尤斯(德国)",
+    "tags": []
+  },
+  {
+    "letter": "Z",
+    "name": "脂肪乳注射液",
+    "brandName": "C14-24",
+    "manufacturer": "费卡华瑞(德国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "苁蓉总苷胶囊",
+    "brandName": "",
+    "manufacturer": "杏辉天⼒(杭州)药业有限公司)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "萘丁美酮⽚",
+    "brandName": "",
+    "manufacturer": "中美天津史克制药",
+    "tags": []
+  },
+  {
+    "letter": "Z",
+    "name": "蔗糖羟基氧化铁咀嚼⽚",
+    "brandName": "维福瑞",
+    "manufacturer": "费森尤斯(德国)",
+    "tags": []
+  },
+  {
+    "letter": "Z",
+    "name": "蔗糖铁注射液",
+    "brandName": "维乐福",
+    "manufacturer": "",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "重组⼈胰岛素注射液",
+    "brandName": "",
+    "manufacturer": "礼来(美国)",
+    "tags": [
+      "注射剂"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "重酒⽯酸卡巴拉汀胶囊",
+    "brandName": "",
+    "manufacturer": "诺华(瑞⼠)",
+    "tags": [
+      "胶囊"
+    ]
+  },
+  {
+    "letter": "Z",
+    "name": "长春西汀⽚",
+    "brandName": "",
+    "manufacturer": "匈⽛利吉瑞⼤药⼚",
+    "tags": []
+  }
+]
